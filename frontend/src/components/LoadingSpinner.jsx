@@ -1,8 +1,10 @@
+import React from 'react';
+
 const LoadingSpinner = () => {
   return (
     <div className="loading-box">
       <div className="spinner" />
-      <p>Finding optimal route...</p>
+      <span>Finding optimal route…</span>
     </div>
   );
 };

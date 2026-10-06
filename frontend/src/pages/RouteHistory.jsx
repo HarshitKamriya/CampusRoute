@@ -1,4 +1,4 @@
-import { useEffect, useState } from 'react';
+import React, { useEffect, useState } from 'react';
 import { Link } from 'react-router-dom';
 import formatDistance from '../utils/formatDistance.js';
 
@@ -6,41 +6,54 @@ const RouteHistory = () => {
   const [history, setHistory] = useState([]);
 
   useEffect(() => {
-    const storedHistory = JSON.parse(localStorage.getItem('campusroute-history') || '[]');
-    setHistory(storedHistory);
+    setHistory(JSON.parse(localStorage.getItem('campusroute-history') || '[]'));
   }, []);
+
+  const handleClear = () => {
+    localStorage.removeItem('campusroute-history');
+    setHistory([]);
+  };
 
   return (
     <main className="page-shell history-page">
-      <section className="history-card">
+      <div className="card">
         <div className="history-header">
-          <h2>Recent Route History</h2>
-          <Link to="/" className="secondary-link">
-            Back to home
-          </Link>
+          <div>
+            <h2>Route History</h2>
+            <p className="text-secondary">Your recent campus navigation searches.</p>
+          </div>
+          <div className="history-actions">
+            <Link to="/" className="btn-link">← Back</Link>
+            {history.length > 0 && (
+              <button type="button" className="btn-danger-sm" onClick={handleClear}>Clear</button>
+            )}
+          </div>
         </div>
 
         {history.length === 0 ? (
-          <p className="empty-state">No searches saved yet.</p>
+          <div className="empty-state">
+            <p>No searches saved yet.</p>
+            <Link to="/" className="btn-primary-sm">Find a Route</Link>
+          </div>
         ) : (
           <div className="history-list">
-            {history.map((item, index) => (
-              <div key={`${item.timestamp}-${index}`} className="history-item">
-                <div>
+            {history.map((item, i) => (
+              <div key={`${item.timestamp}-${i}`} className="history-item">
+                <div className="history-route">
                   <strong>{item.source}</strong>
-                  <span> → </span>
+                  <span className="history-arrow">→</span>
                   <strong>{item.destination}</strong>
                 </div>
                 <div className="history-meta">
-                  <span>{item.algorithm}</span>
                   <span>{formatDistance(item.distance)}</span>
-                  <span>{new Date(item.timestamp).toLocaleString()}</span>
+                  <span>{String(item.algorithm).toLowerCase() === 'astar' || item.algorithm === 'A*' ? 'A*' : 'Dijkstra'}</span>
+                  <span>{new Date(item.timestamp).toLocaleDateString()}</span>
                 </div>
               </div>
             ))}
           </div>
         )}
-      </section>
+      </div>
     </main>
   );
 };

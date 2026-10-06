@@ -1,19 +1,35 @@
+import React from 'react';
 import { NavLink } from 'react-router-dom';
+import { Map } from 'lucide-react';
 
-const Navbar = () => {
+const Navbar = ({ onOpenMapModal }) => {
   return (
-    <nav className="navbar">
-      <div className="brand">
-        <span className="brand-mark">C</span>
-        <span>CampusRoute</span>
-      </div>
-      <div className="nav-links">
-        <NavLink to="/" end>
-          Home
+    <header className="navbar-container">
+      <nav className="navbar">
+        <NavLink to="/" className="brand-group">
+          <div className="brand-crest">CR</div>
+          <div className="brand-text-block">
+            <span className="brand-title">CampusRoute</span>
+            <span className="brand-subtitle">NIT Srinagar</span>
+          </div>
         </NavLink>
-        <NavLink to="/history">History</NavLink>
-      </div>
-    </nav>
+
+        <div className="nav-controls">
+          <NavLink to="/" end className={({ isActive }) => `nav-link ${isActive ? 'active' : ''}`}>
+            Route Finder
+          </NavLink>
+          <NavLink to="/history" className={({ isActive }) => `nav-link ${isActive ? 'active' : ''}`}>
+            History
+          </NavLink>
+          {onOpenMapModal && (
+            <button type="button" className="nav-btn-map" onClick={onOpenMapModal}>
+              <Map size={15} />
+              <span>Campus Map</span>
+            </button>
+          )}
+        </div>
+      </nav>
+    </header>
   );
 };
 
