@@ -1,0 +1,6214 @@
+{
+  "namedOnly": [
+    {
+      "id": 55672514,
+      "name": "Lake Dal Road",
+      "tags": {
+        "highway": "residential",
+        "name": "Lake Dal Road"
+      },
+      "center": [
+        34.127389,
+        74.841834
+      ],
+      "nodeCount": 8
+    },
+    {
+      "id": 361691994,
+      "name": "Jhelum Hostel",
+      "tags": {
+        "name": "Jhelum Hostel",
+        "tourism": "hostel"
+      },
+      "center": [
+        34.123148,
+        74.842038
+      ],
+      "nodeCount": 135
+    },
+    {
+      "id": 361692007,
+      "name": "Main Faculty Building",
+      "tags": {
+        "building": "university",
+        "building:levels": "4",
+        "layer": "1",
+        "name": "Main Faculty Building"
+      },
+      "center": [
+        34.124809,
+        74.839366
+      ],
+      "nodeCount": 25
+    },
+    {
+      "id": 361692009,
+      "name": "Indus Hostel",
+      "tags": {
+        "alt_name": "Indus Hostel, NIT Srinagar",
+        "name": "Indus Hostel",
+        "tourism": "hostel"
+      },
+      "center": [
+        34.123116,
+        74.840419
+      ],
+      "nodeCount": 39
+    },
+    {
+      "id": 361692048,
+      "name": "Professor Masijd",
+      "tags": {
+        "building": "mosque",
+        "name": "Professor Masijd"
+      },
+      "center": [
+        34.126773,
+        74.843511
+      ],
+      "nodeCount": 5
+    },
+    {
+      "id": 361692058,
+      "name": "Physiotherapy Centre",
+      "tags": {
+        "building": "yes",
+        "healthcare": "physiotherapist",
+        "name": "Physiotherapy Centre"
+      },
+      "center": [
+        34.123343,
+        74.839994
+      ],
+      "nodeCount": 5
+    },
+    {
+      "id": 361692072,
+      "name": "High Voltage Lab",
+      "tags": {
+        "building": "yes",
+        "name": "High Voltage Lab"
+      },
+      "center": [
+        34.124687,
+        74.840063
+      ],
+      "nodeCount": 5
+    },
+    {
+      "id": 361692077,
+      "name": "Water Resources Management Centre",
+      "tags": {
+        "alt_name": "WRMC",
+        "building": "yes",
+        "name": "Water Resources Management Centre"
+      },
+      "center": [
+        34.126614,
+        74.838986
+      ],
+      "nodeCount": 6
+    },
+    {
+      "id": 361692083,
+      "name": "Chenab Hostel",
+      "tags": {
+        "alt_name": "Chenab Hostel, NIT Srinagar",
+        "name": "Chenab Hostel",
+        "tourism": "hostel"
+      },
+      "center": [
+        34.122518,
+        74.841253
+      ],
+      "nodeCount": 41
+    },
+    {
+      "id": 361692085,
+      "name": "Lecture Halls",
+      "tags": {
+        "indoor": "room",
+        "level": "0",
+        "name": "Lecture Halls",
+        "room": "classroom"
+      },
+      "center": [
+        34.124442,
+        74.839752
+      ],
+      "nodeCount": 39
+    },
+    {
+      "id": 361692099,
+      "name": "Civil Mechanical Labratories",
+      "tags": {
+        "building": "yes",
+        "name": "Civil Mechanical Labratories"
+      },
+      "center": [
+        34.12649,
+        74.839544
+      ],
+      "nodeCount": 5
+    },
+    {
+      "id": 361692145,
+      "name": "Boys' Hostel Mosque",
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "name": "Boys' Hostel Mosque",
+        "religion": "muslim"
+      },
+      "center": [
+        34.123472,
+        74.84278
+      ],
+      "nodeCount": 10
+    },
+    {
+      "id": 361692147,
+      "name": "Drawing Halls",
+      "tags": {
+        "building": "yes",
+        "building:levels": "1",
+        "name": "Drawing Halls"
+      },
+      "center": [
+        34.124943,
+        74.840535
+      ],
+      "nodeCount": 10
+    },
+    {
+      "id": 517034329,
+      "name": "Dargah Hazratbal Shrine",
+      "tags": {
+        "addr:district": "srinagar",
+        "addr:street": "Hazratbal Road",
+        "denomination": "sunni",
+        "landuse": "religious",
+        "name": "Dargah Hazratbal Shrine",
+        "religion": "muslim",
+        "wikidata": "Q2478856",
+        "wikipedia": "en:Hazratbal Shrine"
+      },
+      "center": [
+        34.129033,
+        74.840966
+      ],
+      "nodeCount": 22
+    },
+    {
+      "id": 680211432,
+      "name": "Hazratbal Road",
+      "tags": {
+        "highway": "secondary",
+        "lanes": "2",
+        "maxspeed": "60",
+        "name": "Hazratbal Road",
+        "ref:old": "NH1D",
+        "shoulder": "no",
+        "smoothness": "intermediate",
+        "surface": "asphalt"
+      },
+      "center": [
+        34.123984,
+        74.836867
+      ],
+      "nodeCount": 23
+    },
+    {
+      "id": 746626522,
+      "name": "National Institute of Technology, Srinagar",
+      "tags": {
+        "addr:city": "Srinagar",
+        "addr:postcode": "190006",
+        "addr:street": "Hazratbal",
+        "alt_name": "NIT Srinagar",
+        "amenity": "university",
+        "education": "university",
+        "name": "National Institute of Technology, Srinagar",
+        "name:hi": "राष्ट्रीय प्रौद्योगिकी संस्थान, श्रीनगर",
+        "short_name": "NIT SRI;NIT-SRI;NITSRI",
+        "website": "https://nitsri.ac.in/",
+        "wikidata": "Q6973723",
+        "wikipedia": "en:National Institute of Technology, Srinagar"
+      },
+      "center": [
+        34.124911,
+        74.840585
+      ],
+      "nodeCount": 55
+    },
+    {
+      "id": 746629869,
+      "name": "Prefab Hostel",
+      "tags": {
+        "name": "Prefab Hostel",
+        "tourism": "hostel"
+      },
+      "center": [
+        34.123976,
+        74.842142
+      ],
+      "nodeCount": 5
+    },
+    {
+      "id": 1118411543,
+      "name": "Hazratbal Road",
+      "tags": {
+        "highway": "secondary",
+        "lanes": "2",
+        "maxspeed": "60",
+        "name": "Hazratbal Road",
+        "oneway": "yes",
+        "ref:old": "NH1D",
+        "shoulder": "no",
+        "smoothness": "intermediate",
+        "surface": "asphalt"
+      },
+      "center": [
+        34.127152,
+        74.838808
+      ],
+      "nodeCount": 6
+    },
+    {
+      "id": 1118411544,
+      "name": "Hazratbal Road",
+      "tags": {
+        "highway": "secondary",
+        "lanes": "2",
+        "maxspeed": "60",
+        "name": "Hazratbal Road",
+        "oneway": "yes",
+        "ref:old": "NH1D",
+        "shoulder": "no",
+        "smoothness": "intermediate",
+        "source": "maxar",
+        "surface": "asphalt"
+      },
+      "center": [
+        34.12724,
+        74.838903
+      ],
+      "nodeCount": 7
+    },
+    {
+      "id": 1281206547,
+      "name": "Lane 2",
+      "tags": {
+        "highway": "residential",
+        "name": "Lane 2"
+      },
+      "center": [
+        34.126947,
+        74.836968
+      ],
+      "nodeCount": 9
+    },
+    {
+      "id": 1281206548,
+      "name": "Lane 1",
+      "tags": {
+        "highway": "residential",
+        "name": "Lane 1"
+      },
+      "center": [
+        34.127302,
+        74.836967
+      ],
+      "nodeCount": 5
+    },
+    {
+      "id": 1352927870,
+      "name": "NIT Srinagar Auditorium",
+      "tags": {
+        "amenity": "conference_centre",
+        "building": "yes",
+        "name": "NIT Srinagar Auditorium",
+        "operator": "NIT Srinagar",
+        "operator:type": "university"
+      },
+      "center": [
+        34.125821,
+        74.838538
+      ],
+      "nodeCount": 17
+    },
+    {
+      "id": 1352928148,
+      "name": "Jammu and Kashmir Bank",
+      "tags": {
+        "air_conditioning": "yes",
+        "amenity": "bank",
+        "atm": "yes",
+        "branch": "NIT/ REC Srinagar",
+        "brand": "Jammu and Kashmir Bank",
+        "brand:wikidata": "Q2040429",
+        "building": "yes",
+        "drive_through": "no",
+        "name": "Jammu and Kashmir Bank",
+        "opening_hours": "10:00-16:30",
+        "operator": "Jammu & Kashmir Bank"
+      },
+      "center": [
+        34.125514,
+        74.838009
+      ],
+      "nodeCount": 8
+    },
+    {
+      "id": 1352928197,
+      "name": "Guard Hut",
+      "tags": {
+        "building": "yes",
+        "name": "Guard Hut",
+        "office": "security"
+      },
+      "center": [
+        34.125273,
+        74.837783
+      ],
+      "nodeCount": 5
+    },
+    {
+      "id": 1352938114,
+      "name": "Mega Hostel",
+      "tags": {
+        "building": "construction",
+        "construction": "residential",
+        "name": "Mega Hostel"
+      },
+      "center": [
+        34.124167,
+        74.841091
+      ],
+      "nodeCount": 9
+    },
+    {
+      "id": 1352938115,
+      "name": "Prefab Lecture Halls",
+      "tags": {
+        "indoor": "room",
+        "level": "0",
+        "name": "Prefab Lecture Halls",
+        "ref": "2 through 7",
+        "room": "classroom"
+      },
+      "center": [
+        34.124427,
+        74.840372
+      ],
+      "nodeCount": 25
+    },
+    {
+      "id": 1352938121,
+      "name": "White Tent",
+      "tags": {
+        "leisure": "pitch",
+        "lit": "yes",
+        "name": "White Tent",
+        "sport": "table_tennis"
+      },
+      "center": [
+        34.123599,
+        74.838915
+      ],
+      "nodeCount": 5
+    },
+    {
+      "id": 1352938122,
+      "name": "Ampitheatre",
+      "tags": {
+        "amenity": "theatre",
+        "name": "Ampitheatre",
+        "theatre:type": "amphi"
+      },
+      "center": [
+        34.123545,
+        74.839074
+      ],
+      "nodeCount": 20
+    },
+    {
+      "id": 1352938126,
+      "name": "Football Ground",
+      "tags": {
+        "leisure": "pitch",
+        "name": "Football Ground",
+        "sport": "soccer",
+        "surface": "grass"
+      },
+      "center": [
+        34.125067,
+        74.84351
+      ],
+      "nodeCount": 5
+    },
+    {
+      "id": 1352938127,
+      "name": "Athletic Track",
+      "tags": {
+        "leisure": "track",
+        "name": "Athletic Track",
+        "sport": "running",
+        "surface": "artificial_turf"
+      },
+      "center": [
+        34.125082,
+        74.843607
+      ],
+      "nodeCount": 18
+    },
+    {
+      "id": 1352938128,
+      "name": "Cricket Ground",
+      "tags": {
+        "leisure": "pitch",
+        "name": "Cricket Ground",
+        "sport": "cricket",
+        "surface": "grass"
+      },
+      "center": [
+        34.12473,
+        74.842212
+      ],
+      "nodeCount": 6
+    },
+    {
+      "id": 1352938130,
+      "name": "Tennis Courts",
+      "tags": {
+        "leisure": "pitch",
+        "name": "Tennis Courts",
+        "sport": "tennis",
+        "surface": "artificial_turf"
+      },
+      "center": [
+        34.125644,
+        74.842103
+      ],
+      "nodeCount": 5
+    },
+    {
+      "id": 1352938131,
+      "name": "Badminton Court",
+      "tags": {
+        "leisure": "pitch",
+        "name": "Badminton Court",
+        "sport": "badminton"
+      },
+      "center": [
+        34.125671,
+        74.842596
+      ],
+      "nodeCount": 5
+    },
+    {
+      "id": 1352938132,
+      "name": "Badminton Court",
+      "tags": {
+        "leisure": "pitch",
+        "name": "Badminton Court",
+        "sport": "badminton"
+      },
+      "center": [
+        34.12525,
+        74.841548
+      ],
+      "nodeCount": 5
+    },
+    {
+      "id": 1352938138,
+      "name": "Dal Side Park",
+      "tags": {
+        "leisure": "park",
+        "name": "Dal Side Park"
+      },
+      "center": [
+        34.125003,
+        74.844178
+      ],
+      "nodeCount": 10
+    },
+    {
+      "id": 1352938139,
+      "name": "Professor Masjid",
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "layer": "1",
+        "name": "Professor Masjid",
+        "religion": "muslim"
+      },
+      "center": [
+        34.126809,
+        74.843607
+      ],
+      "nodeCount": 7
+    },
+    {
+      "id": 1352938140,
+      "name": "Security Officer's Residence",
+      "tags": {
+        "building": "house",
+        "name": "Security Officer's Residence"
+      },
+      "center": [
+        34.126854,
+        74.844011
+      ],
+      "nodeCount": 5
+    },
+    {
+      "id": 1352938141,
+      "name": "Director's Bungalow",
+      "tags": {
+        "building": "bungalow",
+        "name": "Director's Bungalow"
+      },
+      "center": [
+        34.12649,
+        74.843925
+      ],
+      "nodeCount": 5
+    },
+    {
+      "id": 1352938143,
+      "name": "Mansar Hostel",
+      "tags": {
+        "building": "yes",
+        "guest_house": "student_accommodation",
+        "name": "Mansar Hostel",
+        "name:ur": "مانسر ہوسٹل",
+        "operator": "Hostel Office",
+        "tourism": "hostel"
+      },
+      "center": [
+        34.123488,
+        74.842284
+      ],
+      "nodeCount": 7
+    },
+    {
+      "id": 1352938145,
+      "name": "Greenhouse",
+      "tags": {
+        "building": "greenhouse",
+        "name": "Greenhouse"
+      },
+      "center": [
+        34.123322,
+        74.843419
+      ],
+      "nodeCount": 5
+    },
+    {
+      "id": 1352938146,
+      "name": "Nursery",
+      "tags": {
+        "landuse": "plant_nursery",
+        "name": "Nursery"
+      },
+      "center": [
+        34.123448,
+        74.843413
+      ],
+      "nodeCount": 5
+    },
+    {
+      "id": 1352938149,
+      "name": "CS Lab",
+      "tags": {
+        "indoor": "room",
+        "level": "0",
+        "name": "CS Lab",
+        "room": "laboratory"
+      },
+      "center": [
+        34.126032,
+        74.840857
+      ],
+      "nodeCount": 5
+    },
+    {
+      "id": 1352938150,
+      "name": "CS Lab",
+      "tags": {
+        "indoor": "room",
+        "name": "CS Lab",
+        "room": "laboratory"
+      },
+      "center": [
+        34.125888,
+        74.840832
+      ],
+      "nodeCount": 5
+    },
+    {
+      "id": 1352938151,
+      "name": "Prefab Lecture Hall",
+      "tags": {
+        "indoor": "room",
+        "name": "Prefab Lecture Hall",
+        "ref": "PF1",
+        "room": "classroom"
+      },
+      "center": [
+        34.1262,
+        74.84106
+      ],
+      "nodeCount": 5
+    },
+    {
+      "id": 1352938152,
+      "name": "Trainings & Placement",
+      "tags": {
+        "alt_name": "T&P",
+        "building": "office",
+        "name": "Trainings & Placement"
+      },
+      "center": [
+        34.12643,
+        74.841257
+      ],
+      "nodeCount": 5
+    },
+    {
+      "id": 1352938156,
+      "name": "Workshop Park",
+      "tags": {
+        "leisure": "park",
+        "name": "Workshop Park"
+      },
+      "center": [
+        34.126225,
+        74.839561
+      ],
+      "nodeCount": 5
+    },
+    {
+      "id": 1354346356,
+      "name": "New Guest House",
+      "tags": {
+        "building": "yes",
+        "guest_house": "guest_house",
+        "name": "New Guest House",
+        "operator": "NIT Srinagar",
+        "rooms": "50",
+        "tourism": "guest_house",
+        "website": "https://nitsri.ac.in/Centre/Deptindex.aspx?page=a&ItemID=eaeqs&nCentreID=ci"
+      },
+      "center": [
+        34.126692,
+        74.840735
+      ],
+      "nodeCount": 9
+    },
+    {
+      "id": 1354346550,
+      "name": "Earthquake Centre",
+      "tags": {
+        "building": "yes",
+        "building:levels": "1",
+        "building:prefabricated": "yes",
+        "name": "Earthquake Centre"
+      },
+      "center": [
+        34.126915,
+        74.841126
+      ],
+      "nodeCount": 5
+    },
+    {
+      "id": 1354346624,
+      "name": "New Girls Hostel",
+      "tags": {
+        "building": "yes",
+        "guest_house": "student_accommodation",
+        "name": "New Girls Hostel",
+        "tourism": "hostel"
+      },
+      "center": [
+        34.126752,
+        74.841495
+      ],
+      "nodeCount": 17
+    },
+    {
+      "id": 1354347710,
+      "name": "CSC Lab",
+      "tags": {
+        "building": "yes",
+        "building:prefabricated": "yes",
+        "name": "CSC Lab"
+      },
+      "center": [
+        34.125629,
+        74.839446
+      ],
+      "nodeCount": 5
+    },
+    {
+      "id": 1354347711,
+      "name": "CSC Lab",
+      "tags": {
+        "building": "yes",
+        "building:prefabricated": "yes",
+        "name": "CSC Lab"
+      },
+      "center": [
+        34.125618,
+        74.83961
+      ],
+      "nodeCount": 5
+    },
+    {
+      "id": 1354349287,
+      "name": "Councelling Cum Evaluation Centre",
+      "tags": {
+        "building": "yes",
+        "building:levels": "1",
+        "building:prefabricated": "yes",
+        "name": "Councelling Cum Evaluation Centre"
+      },
+      "center": [
+        34.124766,
+        74.840338
+      ],
+      "nodeCount": 5
+    },
+    {
+      "id": 1354350070,
+      "name": "Daycare Centre",
+      "tags": {
+        "amenity": "childcare",
+        "building": "yes",
+        "name": "Daycare Centre"
+      },
+      "center": [
+        34.123533,
+        74.839715
+      ],
+      "nodeCount": 5
+    },
+    {
+      "id": 1354350159,
+      "name": "Concrete Lab",
+      "tags": {
+        "building": "shed",
+        "name": "Concrete Lab"
+      },
+      "center": [
+        34.12474,
+        74.83958
+      ],
+      "nodeCount": 5
+    },
+    {
+      "id": 1462495778,
+      "name": "Eidgah Park Dargah",
+      "tags": {
+        "addr:district": "srinagar",
+        "addr:street": "Dargah Hazratbal Shrine",
+        "leisure": "park",
+        "name": "Eidgah Park Dargah",
+        "operator": "Dargah Hazratbal Shrine",
+        "operator:type": "public"
+      },
+      "center": [
+        34.128498,
+        74.840658
+      ],
+      "nodeCount": 11
+    },
+    {
+      "id": 1463041783,
+      "name": "Multilevel Parking Hazratbal",
+      "tags": {
+        "amenity": "parking",
+        "building": "yes",
+        "name": "Multilevel Parking Hazratbal",
+        "parking": "multi-storey"
+      },
+      "center": [
+        34.127078,
+        74.838076
+      ],
+      "nodeCount": 54
+    }
+  ],
+  "highways": [
+    {
+      "id": 55671919,
+      "name": "unnamed path",
+      "highway": "residential",
+      "coords": [
+        [
+          34.1264133,
+          74.8361857
+        ],
+        [
+          34.1264238,
+          74.8363635
+        ],
+        [
+          34.1264335,
+          74.8364593
+        ],
+        [
+          34.12647,
+          74.8367041
+        ],
+        [
+          34.1264935,
+          74.8368484
+        ],
+        [
+          34.1265596,
+          74.8370528
+        ],
+        [
+          34.1266191,
+          74.8372507
+        ],
+        [
+          34.126658,
+          74.8374155
+        ],
+        [
+          34.1266805,
+          74.8375393
+        ],
+        [
+          34.1266884,
+          74.8375898
+        ],
+        [
+          34.1266843,
+          74.8376438
+        ],
+        [
+          34.126771,
+          74.8383312
+        ],
+        [
+          34.1268062,
+          74.8386353
+        ],
+        [
+          34.126825,
+          74.8388003
+        ]
+      ]
+    },
+    {
+      "id": 55671930,
+      "name": "unnamed path",
+      "highway": "residential",
+      "coords": [
+        [
+          34.125034,
+          74.8347875
+        ],
+        [
+          34.12516,
+          74.8363472
+        ],
+        [
+          34.1252063,
+          74.8366589
+        ],
+        [
+          34.1252431,
+          74.8369271
+        ],
+        [
+          34.1252555,
+          74.8372607
+        ],
+        [
+          34.1252,
+          74.8374607
+        ]
+      ]
+    },
+    {
+      "id": 55672510,
+      "name": "unnamed path",
+      "highway": "residential",
+      "coords": [
+        [
+          34.1215074,
+          74.8408921
+        ],
+        [
+          34.1215178,
+          74.840714
+        ],
+        [
+          34.1215208,
+          74.8405996
+        ],
+        [
+          34.1215297,
+          74.8400823
+        ],
+        [
+          34.1215345,
+          74.8400331
+        ],
+        [
+          34.1215523,
+          74.8399995
+        ],
+        [
+          34.1215806,
+          74.8399783
+        ],
+        [
+          34.1217176,
+          74.8399513
+        ],
+        [
+          34.1219691,
+          74.8398903
+        ],
+        [
+          34.1221609,
+          74.8398453
+        ],
+        [
+          34.1227636,
+          74.8396792
+        ],
+        [
+          34.1231674,
+          74.8395489
+        ],
+        [
+          34.1232462,
+          74.8395279
+        ],
+        [
+          34.123274,
+          74.839507
+        ],
+        [
+          34.123294,
+          74.8394773
+        ],
+        [
+          34.1233064,
+          74.8394037
+        ],
+        [
+          34.1233109,
+          74.8393029
+        ],
+        [
+          34.123296,
+          74.8390601
+        ],
+        [
+          34.1232963,
+          74.8388253
+        ],
+        [
+          34.1233064,
+          74.8386988
+        ],
+        [
+          34.1233279,
+          74.8386325
+        ],
+        [
+          34.1233649,
+          74.8385889
+        ],
+        [
+          34.1234283,
+          74.8385611
+        ],
+        [
+          34.1235233,
+          74.8385322
+        ],
+        [
+          34.1236176,
+          74.8385222
+        ],
+        [
+          34.1236995,
+          74.838534
+        ],
+        [
+          34.1237615,
+          74.83857
+        ],
+        [
+          34.123815,
+          74.8386233
+        ],
+        [
+          34.1238771,
+          74.838634
+        ],
+        [
+          34.1239571,
+          74.8386206
+        ],
+        [
+          34.1242982,
+          74.8384345
+        ],
+        [
+          34.1245054,
+          74.8383286
+        ],
+        [
+          34.1245962,
+          74.8382769
+        ],
+        [
+          34.1246709,
+          74.8382281
+        ],
+        [
+          34.1247128,
+          74.838192
+        ],
+        [
+          34.1247443,
+          74.8381492
+        ],
+        [
+          34.1247625,
+          74.838089
+        ],
+        [
+          34.1247705,
+          74.8380012
+        ],
+        [
+          34.1247948,
+          74.8378663
+        ],
+        [
+          34.1248082,
+          74.83778
+        ],
+        [
+          34.1248411,
+          74.8376914
+        ],
+        [
+          34.1248775,
+          74.8375758
+        ],
+        [
+          34.1249892,
+          74.8373197
+        ]
+      ]
+    },
+    {
+      "id": 55672514,
+      "name": "Lake Dal Road",
+      "highway": "residential",
+      "coords": [
+        [
+          34.1278521,
+          74.8439727
+        ],
+        [
+          34.1277496,
+          74.843412
+        ],
+        [
+          34.1277233,
+          74.8432847
+        ],
+        [
+          34.1276405,
+          74.842884
+        ],
+        [
+          34.1274007,
+          74.8417838
+        ],
+        [
+          34.1272212,
+          74.8409762
+        ],
+        [
+          34.1268701,
+          74.8395886
+        ],
+        [
+          34.1266582,
+          74.8387703
+        ]
+      ]
+    },
+    {
+      "id": 55672515,
+      "name": "unnamed path",
+      "highway": "residential",
+      "coords": [
+        [
+          34.1283802,
+          74.8414638
+        ],
+        [
+          34.1277234,
+          74.8416836
+        ],
+        [
+          34.1274007,
+          74.8417838
+        ]
+      ]
+    },
+    {
+      "id": 55684249,
+      "name": "unnamed path",
+      "highway": "service",
+      "coords": [
+        [
+          34.1262426,
+          74.8442566
+        ],
+        [
+          34.1260318,
+          74.8435863
+        ],
+        [
+          34.1259914,
+          74.8433844
+        ],
+        [
+          34.1259831,
+          74.8433052
+        ],
+        [
+          34.1259897,
+          74.8431954
+        ],
+        [
+          34.1260408,
+          74.8430626
+        ],
+        [
+          34.1260819,
+          74.8428611
+        ],
+        [
+          34.1260902,
+          74.8428201
+        ],
+        [
+          34.1261266,
+          74.8425925
+        ],
+        [
+          34.1261205,
+          74.8424815
+        ],
+        [
+          34.1261006,
+          74.8423326
+        ],
+        [
+          34.1260694,
+          74.8422113
+        ],
+        [
+          34.1259676,
+          74.8419286
+        ],
+        [
+          34.1258278,
+          74.8415671
+        ],
+        [
+          34.1258033,
+          74.8414976
+        ],
+        [
+          34.1257931,
+          74.8414501
+        ],
+        [
+          34.1257885,
+          74.8414017
+        ]
+      ]
+    },
+    {
+      "id": 55684250,
+      "name": "unnamed path",
+      "highway": "service",
+      "coords": [
+        [
+          34.1238089,
+          74.8403646
+        ],
+        [
+          34.1226629,
+          74.8401991
+        ],
+        [
+          34.122536,
+          74.8402022
+        ],
+        [
+          34.1224957,
+          74.8402052
+        ],
+        [
+          34.1224621,
+          74.8402214
+        ],
+        [
+          34.1224336,
+          74.8402651
+        ],
+        [
+          34.1224189,
+          74.8403326
+        ],
+        [
+          34.1224027,
+          74.840652
+        ],
+        [
+          34.1224009,
+          74.8407265
+        ],
+        [
+          34.122396,
+          74.840934
+        ],
+        [
+          34.1223846,
+          74.8410058
+        ],
+        [
+          34.1223781,
+          74.841033
+        ],
+        [
+          34.1223626,
+          74.8410601
+        ],
+        [
+          34.1223386,
+          74.8410752
+        ],
+        [
+          34.1223046,
+          74.8410813
+        ],
+        [
+          34.1222242,
+          74.8410808
+        ],
+        [
+          34.1220154,
+          74.8410541
+        ],
+        [
+          34.1219803,
+          74.8410593
+        ],
+        [
+          34.1219473,
+          74.841081
+        ],
+        [
+          34.1219024,
+          74.8411425
+        ],
+        [
+          34.1218868,
+          74.8412295
+        ],
+        [
+          34.1218889,
+          74.8412969
+        ],
+        [
+          34.1219094,
+          74.8413592
+        ],
+        [
+          34.1219489,
+          74.8413959
+        ],
+        [
+          34.1220045,
+          74.8414156
+        ],
+        [
+          34.1226182,
+          74.8414897
+        ],
+        [
+          34.1230592,
+          74.8415451
+        ],
+        [
+          34.1237245,
+          74.8416464
+        ]
+      ]
+    },
+    {
+      "id": 55684260,
+      "name": "unnamed path",
+      "highway": "service",
+      "coords": [
+        [
+          34.1263636,
+          74.8390361
+        ],
+        [
+          34.1259798,
+          74.8389706
+        ],
+        [
+          34.1254056,
+          74.8389008
+        ],
+        [
+          34.1250427,
+          74.83887
+        ],
+        [
+          34.1247133,
+          74.8388369
+        ],
+        [
+          34.1245307,
+          74.8388094
+        ],
+        [
+          34.1244658,
+          74.8387983
+        ],
+        [
+          34.1241798,
+          74.8387495
+        ],
+        [
+          34.1240841,
+          74.8387332
+        ],
+        [
+          34.1240173,
+          74.8387358
+        ],
+        [
+          34.1239637,
+          74.8387584
+        ],
+        [
+          34.1239268,
+          74.838809
+        ],
+        [
+          34.1239137,
+          74.8388606
+        ],
+        [
+          34.1238642,
+          74.8394685
+        ],
+        [
+          34.1238599,
+          74.8395384
+        ],
+        [
+          34.1238526,
+          74.8396582
+        ],
+        [
+          34.1238242,
+          74.8401267
+        ],
+        [
+          34.1238089,
+          74.8403646
+        ],
+        [
+          34.1237817,
+          74.8407866
+        ],
+        [
+          34.1237557,
+          74.8411904
+        ],
+        [
+          34.1237245,
+          74.8416464
+        ],
+        [
+          34.1237222,
+          74.8416743
+        ],
+        [
+          34.1236901,
+          74.8420716
+        ],
+        [
+          34.1236749,
+          74.8422593
+        ],
+        [
+          34.123643,
+          74.8426537
+        ],
+        [
+          34.1235325,
+          74.8439316
+        ],
+        [
+          34.1235266,
+          74.8440933
+        ],
+        [
+          34.1235257,
+          74.8442188
+        ],
+        [
+          34.1235355,
+          74.8443035
+        ],
+        [
+          34.1235559,
+          74.844399
+        ],
+        [
+          34.1235799,
+          74.8444827
+        ],
+        [
+          34.1236039,
+          74.8445396
+        ],
+        [
+          34.1236446,
+          74.8445696
+        ]
+      ]
+    },
+    {
+      "id": 213128880,
+      "name": "unnamed path",
+      "highway": "service",
+      "coords": [
+        [
+          34.1238242,
+          74.8401267
+        ],
+        [
+          34.1244396,
+          74.8401995
+        ],
+        [
+          34.1246112,
+          74.8402198
+        ],
+        [
+          34.1246619,
+          74.8402242
+        ],
+        [
+          34.1249137,
+          74.8402495
+        ],
+        [
+          34.1250059,
+          74.8402588
+        ]
+      ]
+    },
+    {
+      "id": 213128883,
+      "name": "unnamed path",
+      "highway": "service",
+      "coords": [
+        [
+          34.123643,
+          74.8426537
+        ],
+        [
+          34.1232621,
+          74.8426081
+        ],
+        [
+          34.1232225,
+          74.8426033
+        ],
+        [
+          34.1227801,
+          74.842569
+        ],
+        [
+          34.1226575,
+          74.8425574
+        ],
+        [
+          34.1225907,
+          74.8425452
+        ],
+        [
+          34.12257,
+          74.8425273
+        ],
+        [
+          34.1225609,
+          74.8425026
+        ],
+        [
+          34.1225501,
+          74.8424604
+        ],
+        [
+          34.1225442,
+          74.8424193
+        ],
+        [
+          34.1225467,
+          74.8423651
+        ],
+        [
+          34.1225609,
+          74.8422206
+        ],
+        [
+          34.1226182,
+          74.8414897
+        ]
+      ]
+    },
+    {
+      "id": 213128886,
+      "name": "unnamed path",
+      "highway": "residential",
+      "coords": [
+        [
+          34.1229675,
+          74.8361703
+        ],
+        [
+          34.1229183,
+          74.8363073
+        ],
+        [
+          34.1228955,
+          74.8363897
+        ],
+        [
+          34.1228784,
+          74.836472
+        ],
+        [
+          34.1228838,
+          74.8365591
+        ],
+        [
+          34.1229021,
+          74.8367448
+        ],
+        [
+          34.1229092,
+          74.8368121
+        ],
+        [
+          34.1229215,
+          74.8369866
+        ],
+        [
+          34.1229314,
+          74.8371069
+        ],
+        [
+          34.122923,
+          74.8371367
+        ],
+        [
+          34.1228987,
+          74.8371533
+        ],
+        [
+          34.1228659,
+          74.837161
+        ],
+        [
+          34.1223728,
+          74.8372205
+        ]
+      ]
+    },
+    {
+      "id": 530864105,
+      "name": "unnamed path",
+      "highway": "service",
+      "coords": [
+        [
+          34.12634,
+          74.8404843
+        ],
+        [
+          34.1267265,
+          74.8405275
+        ]
+      ]
+    },
+    {
+      "id": 530864107,
+      "name": "unnamed path",
+      "highway": "service",
+      "coords": [
+        [
+          34.1262666,
+          74.8414508
+        ],
+        [
+          34.126321,
+          74.8407344
+        ],
+        [
+          34.12634,
+          74.8404843
+        ],
+        [
+          34.1263803,
+          74.8399389
+        ],
+        [
+          34.126384,
+          74.8398893
+        ],
+        [
+          34.1264233,
+          74.8393573
+        ],
+        [
+          34.126428,
+          74.8392932
+        ],
+        [
+          34.1264318,
+          74.8392049
+        ],
+        [
+          34.1264254,
+          74.8391363
+        ],
+        [
+          34.1264068,
+          74.8390751
+        ],
+        [
+          34.1263636,
+          74.8390361
+        ]
+      ]
+    },
+    {
+      "id": 530864109,
+      "name": "unnamed path",
+      "highway": "service",
+      "coords": [
+        [
+          34.1236446,
+          74.8445696
+        ],
+        [
+          34.1238278,
+          74.8446431
+        ],
+        [
+          34.1241203,
+          74.8447075
+        ],
+        [
+          34.1243686,
+          74.8447466
+        ],
+        [
+          34.124459,
+          74.8447324
+        ],
+        [
+          34.1245362,
+          74.8447203
+        ],
+        [
+          34.1248159,
+          74.8446361
+        ],
+        [
+          34.1251488,
+          74.8445529
+        ],
+        [
+          34.1256862,
+          74.8444103
+        ],
+        [
+          34.1262426,
+          74.8442566
+        ],
+        [
+          34.1265502,
+          74.8442029
+        ],
+        [
+          34.1266072,
+          74.8441774
+        ],
+        [
+          34.1266443,
+          74.844148
+        ],
+        [
+          34.1266613,
+          74.8441002
+        ],
+        [
+          34.1266681,
+          74.8440306
+        ],
+        [
+          34.126622,
+          74.8434511
+        ],
+        [
+          34.1266102,
+          74.8433023
+        ],
+        [
+          34.1265133,
+          74.8418686
+        ],
+        [
+          34.1265069,
+          74.8417454
+        ],
+        [
+          34.1264955,
+          74.8416297
+        ],
+        [
+          34.1264719,
+          74.84155
+        ],
+        [
+          34.1264495,
+          74.8415015
+        ],
+        [
+          34.1263986,
+          74.8414637
+        ],
+        [
+          34.1263586,
+          74.8414605
+        ]
+      ]
+    },
+    {
+      "id": 530864114,
+      "name": "unnamed path",
+      "highway": "residential",
+      "coords": [
+        [
+          34.127391,
+          74.8395515
+        ],
+        [
+          34.1276481,
+          74.8390209
+        ],
+        [
+          34.1276974,
+          74.8389592
+        ],
+        [
+          34.1277398,
+          74.8389296
+        ]
+      ]
+    },
+    {
+      "id": 530864116,
+      "name": "unnamed path",
+      "highway": "residential",
+      "coords": [
+        [
+          34.12923,
+          74.8390213
+        ],
+        [
+          34.1288381,
+          74.8391922
+        ],
+        [
+          34.128349,
+          74.8393846
+        ],
+        [
+          34.1279172,
+          74.8394877
+        ],
+        [
+          34.1277109,
+          74.8395327
+        ],
+        [
+          34.1274902,
+          74.8395539
+        ],
+        [
+          34.127391,
+          74.8395515
+        ],
+        [
+          34.127354,
+          74.8395506
+        ],
+        [
+          34.1272309,
+          74.8395458
+        ],
+        [
+          34.1271378,
+          74.8395507
+        ],
+        [
+          34.1268701,
+          74.8395886
+        ]
+      ]
+    },
+    {
+      "id": 530864757,
+      "name": "unnamed path",
+      "highway": "service",
+      "coords": [
+        [
+          34.1250656,
+          74.8392732
+        ],
+        [
+          34.1250872,
+          74.839311
+        ],
+        [
+          34.1251002,
+          74.8393281
+        ],
+        [
+          34.1251212,
+          74.839342
+        ],
+        [
+          34.1252124,
+          74.8393621
+        ],
+        [
+          34.1253117,
+          74.8393733
+        ],
+        [
+          34.1253443,
+          74.8393747
+        ],
+        [
+          34.1253677,
+          74.8393727
+        ],
+        [
+          34.1253804,
+          74.8393614
+        ],
+        [
+          34.1253912,
+          74.839342
+        ],
+        [
+          34.1253964,
+          74.8393163
+        ],
+        [
+          34.1253993,
+          74.8392402
+        ]
+      ]
+    },
+    {
+      "id": 530864758,
+      "name": "unnamed path",
+      "highway": "service",
+      "coords": [
+        [
+          34.1247133,
+          74.8388369
+        ],
+        [
+          34.124684,
+          74.8391525
+        ],
+        [
+          34.1246953,
+          74.8392037
+        ],
+        [
+          34.1247117,
+          74.8392473
+        ],
+        [
+          34.1247377,
+          74.8392706
+        ],
+        [
+          34.1247756,
+          74.8392901
+        ],
+        [
+          34.1248257,
+          74.8393049
+        ],
+        [
+          34.1248703,
+          74.8393116
+        ],
+        [
+          34.1249063,
+          74.8393112
+        ],
+        [
+          34.1249424,
+          74.839291
+        ],
+        [
+          34.1249633,
+          74.8392691
+        ]
+      ]
+    },
+    {
+      "id": 530864759,
+      "name": "unnamed path",
+      "highway": "service",
+      "coords": [
+        [
+          34.1254056,
+          74.8389008
+        ],
+        [
+          34.1253993,
+          74.8392402
+        ]
+      ]
+    },
+    {
+      "id": 530864760,
+      "name": "unnamed path",
+      "highway": "service",
+      "coords": [
+        [
+          34.1250427,
+          74.83887
+        ],
+        [
+          34.1250331,
+          74.8389947
+        ]
+      ]
+    },
+    {
+      "id": 530864761,
+      "name": "unnamed path",
+      "highway": "service",
+      "coords": [
+        [
+          34.1248976,
+          74.8391311
+        ],
+        [
+          34.1249039,
+          74.8390922
+        ],
+        [
+          34.1249187,
+          74.8390567
+        ],
+        [
+          34.1249409,
+          74.8390274
+        ],
+        [
+          34.1249687,
+          74.8390063
+        ],
+        [
+          34.1250003,
+          74.8389952
+        ],
+        [
+          34.1250331,
+          74.8389947
+        ],
+        [
+          34.1250649,
+          74.839005
+        ],
+        [
+          34.1250932,
+          74.8390253
+        ],
+        [
+          34.1251158,
+          74.839054
+        ],
+        [
+          34.1251323,
+          74.8390925
+        ],
+        [
+          34.1251386,
+          74.8391352
+        ],
+        [
+          34.1251343,
+          74.8391782
+        ],
+        [
+          34.1251197,
+          74.8392177
+        ],
+        [
+          34.1250961,
+          74.8392504
+        ],
+        [
+          34.1250656,
+          74.8392732
+        ],
+        [
+          34.1250309,
+          74.8392841
+        ],
+        [
+          34.1249962,
+          74.8392826
+        ],
+        [
+          34.1249633,
+          74.8392691
+        ],
+        [
+          34.124935,
+          74.8392449
+        ],
+        [
+          34.1249135,
+          74.8392119
+        ],
+        [
+          34.1249007,
+          74.8391729
+        ],
+        [
+          34.1248976,
+          74.8391311
+        ]
+      ]
+    },
+    {
+      "id": 680211430,
+      "name": "unnamed path",
+      "highway": "residential",
+      "coords": [
+        [
+          34.1266843,
+          74.8376438
+        ],
+        [
+          34.1269944,
+          74.8375542
+        ],
+        [
+          34.1270408,
+          74.837543
+        ],
+        [
+          34.1272618,
+          74.8374897
+        ],
+        [
+          34.1273427,
+          74.8374708
+        ],
+        [
+          34.1275043,
+          74.8374332
+        ],
+        [
+          34.1276622,
+          74.837394
+        ]
+      ]
+    },
+    {
+      "id": 680211432,
+      "name": "Hazratbal Road",
+      "highway": "secondary",
+      "coords": [
+        [
+          34.1210905,
+          74.8354301
+        ],
+        [
+          34.121151,
+          74.8354537
+        ],
+        [
+          34.1214275,
+          74.83556
+        ],
+        [
+          34.1216629,
+          74.8356503
+        ],
+        [
+          34.122396,
+          74.8359522
+        ],
+        [
+          34.1229675,
+          74.8361703
+        ],
+        [
+          34.123054,
+          74.8362058
+        ],
+        [
+          34.1232266,
+          74.8362617
+        ],
+        [
+          34.1233419,
+          74.8363061
+        ],
+        [
+          34.123482,
+          74.8363601
+        ],
+        [
+          34.1237176,
+          74.8364763
+        ],
+        [
+          34.1238353,
+          74.8365343
+        ],
+        [
+          34.1240672,
+          74.8366784
+        ],
+        [
+          34.1241101,
+          74.8367113
+        ],
+        [
+          34.1243722,
+          74.836912
+        ],
+        [
+          34.1249892,
+          74.8373197
+        ],
+        [
+          34.1252,
+          74.8374607
+        ],
+        [
+          34.125401,
+          74.837645
+        ],
+        [
+          34.1258891,
+          74.8381119
+        ],
+        [
+          34.1262734,
+          74.8384548
+        ],
+        [
+          34.126537,
+          74.838693
+        ],
+        [
+          34.1266582,
+          74.8387703
+        ],
+        [
+          34.1267784,
+          74.8388327
+        ]
+      ]
+    },
+    {
+      "id": 746618982,
+      "name": "unnamed path",
+      "highway": "service",
+      "coords": [
+        [
+          34.1248252,
+          74.8413046
+        ],
+        [
+          34.1248829,
+          74.8407687
+        ],
+        [
+          34.1246413,
+          74.8406285
+        ],
+        [
+          34.1246263,
+          74.8404944
+        ],
+        [
+          34.1246369,
+          74.8404436
+        ],
+        [
+          34.1246376,
+          74.8403961
+        ],
+        [
+          34.1246619,
+          74.8402242
+        ]
+      ]
+    },
+    {
+      "id": 746622472,
+      "name": "unnamed path",
+      "highway": "service",
+      "coords": [
+        [
+          34.1237557,
+          74.8411904
+        ],
+        [
+          34.1231384,
+          74.8411122
+        ],
+        [
+          34.1231029,
+          74.8411229
+        ],
+        [
+          34.1230896,
+          74.8411551
+        ],
+        [
+          34.1230592,
+          74.8415451
+        ]
+      ]
+    },
+    {
+      "id": 746626686,
+      "name": "unnamed path",
+      "highway": "footway",
+      "coords": [
+        [
+          34.1253964,
+          74.8393163
+        ],
+        [
+          34.1254541,
+          74.8393183
+        ],
+        [
+          34.125459,
+          74.8392195
+        ],
+        [
+          34.1257549,
+          74.8392572
+        ],
+        [
+          34.1257258,
+          74.8395512
+        ],
+        [
+          34.1257043,
+          74.8397676
+        ],
+        [
+          34.1257041,
+          74.8398399
+        ],
+        [
+          34.1257061,
+          74.8398689
+        ],
+        [
+          34.1257083,
+          74.8399008
+        ],
+        [
+          34.1257221,
+          74.8399619
+        ],
+        [
+          34.1257321,
+          74.8400256
+        ],
+        [
+          34.1257384,
+          74.8400884
+        ],
+        [
+          34.1257399,
+          74.8401887
+        ],
+        [
+          34.1257346,
+          74.840419
+        ],
+        [
+          34.1257338,
+          74.8404538
+        ],
+        [
+          34.1257288,
+          74.8406495
+        ],
+        [
+          34.1257264,
+          74.8408731
+        ],
+        [
+          34.1257255,
+          74.8409533
+        ],
+        [
+          34.1257143,
+          74.8411839
+        ],
+        [
+          34.1257075,
+          74.8413891
+        ]
+      ]
+    },
+    {
+      "id": 746626728,
+      "name": "unnamed path",
+      "highway": "service",
+      "coords": [
+        [
+          34.1257288,
+          74.8406495
+        ],
+        [
+          34.1254492,
+          74.8406701
+        ],
+        [
+          34.124954,
+          74.8407786
+        ],
+        [
+          34.1248829,
+          74.8407687
+        ]
+      ]
+    },
+    {
+      "id": 746626741,
+      "name": "unnamed path",
+      "highway": "service",
+      "coords": [
+        [
+          34.1253155,
+          74.8400883
+        ],
+        [
+          34.125404,
+          74.8401136
+        ],
+        [
+          34.1254861,
+          74.8401233
+        ],
+        [
+          34.1254642,
+          74.8404013
+        ],
+        [
+          34.125449,
+          74.8405293
+        ],
+        [
+          34.1254492,
+          74.8406701
+        ]
+      ]
+    },
+    {
+      "id": 1118411543,
+      "name": "Hazratbal Road",
+      "highway": "secondary",
+      "coords": [
+        [
+          34.1267784,
+          74.8388327
+        ],
+        [
+          34.126825,
+          74.8388003
+        ],
+        [
+          34.1268784,
+          74.8387894
+        ],
+        [
+          34.1271261,
+          74.8387983
+        ],
+        [
+          34.1276035,
+          74.838817
+        ],
+        [
+          34.1277015,
+          74.838813
+        ]
+      ]
+    },
+    {
+      "id": 1118411544,
+      "name": "Hazratbal Road",
+      "highway": "secondary",
+      "coords": [
+        [
+          34.1277179,
+          74.8389085
+        ],
+        [
+          34.1276123,
+          74.8389323
+        ],
+        [
+          34.1275057,
+          74.8389379
+        ],
+        [
+          34.1272554,
+          74.8389265
+        ],
+        [
+          34.1269741,
+          74.8389088
+        ],
+        [
+          34.1268337,
+          74.8388725
+        ],
+        [
+          34.1267784,
+          74.8388327
+        ]
+      ]
+    },
+    {
+      "id": 1120299150,
+      "name": "unnamed path",
+      "highway": "residential",
+      "coords": [
+        [
+          34.1238353,
+          74.8365343
+        ],
+        [
+          34.1238117,
+          74.836647
+        ],
+        [
+          34.1238042,
+          74.8367138
+        ],
+        [
+          34.1238048,
+          74.8367752
+        ],
+        [
+          34.1238054,
+          74.8368306
+        ],
+        [
+          34.1238394,
+          74.8371287
+        ]
+      ]
+    },
+    {
+      "id": 1120299151,
+      "name": "unnamed path",
+      "highway": "residential",
+      "coords": [
+        [
+          34.1243722,
+          74.836912
+        ],
+        [
+          34.124297,
+          74.8370309
+        ],
+        [
+          34.1242783,
+          74.8370823
+        ],
+        [
+          34.1242552,
+          74.8371821
+        ],
+        [
+          34.1241815,
+          74.8376563
+        ]
+      ]
+    },
+    {
+      "id": 1120299152,
+      "name": "unnamed path",
+      "highway": "residential",
+      "coords": [
+        [
+          34.1240215,
+          74.8379875
+        ],
+        [
+          34.1242982,
+          74.8384345
+        ]
+      ]
+    },
+    {
+      "id": 1120299153,
+      "name": "unnamed path",
+      "highway": "residential",
+      "coords": [
+        [
+          34.1191206,
+          74.8411902
+        ],
+        [
+          34.1195576,
+          74.8410101
+        ],
+        [
+          34.1195815,
+          74.8410038
+        ],
+        [
+          34.1196009,
+          74.8410074
+        ],
+        [
+          34.1196151,
+          74.8410164
+        ],
+        [
+          34.1196308,
+          74.8410453
+        ],
+        [
+          34.1196494,
+          74.8410688
+        ],
+        [
+          34.1196733,
+          74.8410796
+        ],
+        [
+          34.1197337,
+          74.8410863
+        ],
+        [
+          34.1199754,
+          74.8410895
+        ],
+        [
+          34.1201485,
+          74.8410939
+        ],
+        [
+          34.1205492,
+          74.8411312
+        ],
+        [
+          34.1208013,
+          74.8411571
+        ],
+        [
+          34.1210821,
+          74.8411736
+        ],
+        [
+          34.121313,
+          74.8411872
+        ],
+        [
+          34.1214137,
+          74.8411874
+        ],
+        [
+          34.1214738,
+          74.8411557
+        ],
+        [
+          34.1214951,
+          74.8411089
+        ],
+        [
+          34.1215026,
+          74.8410458
+        ],
+        [
+          34.1215074,
+          74.8408921
+        ]
+      ]
+    },
+    {
+      "id": 1120302058,
+      "name": "unnamed path",
+      "highway": "residential",
+      "coords": [
+        [
+          34.1272518,
+          74.842861
+        ],
+        [
+          34.1276405,
+          74.842884
+        ]
+      ]
+    },
+    {
+      "id": 1120302059,
+      "name": "unnamed path",
+      "highway": "residential",
+      "coords": [
+        [
+          34.127189,
+          74.8431614
+        ],
+        [
+          34.127402,
+          74.843189
+        ],
+        [
+          34.1274709,
+          74.843204
+        ],
+        [
+          34.1275016,
+          74.8432184
+        ],
+        [
+          34.1275255,
+          74.8432401
+        ],
+        [
+          34.1275523,
+          74.8432689
+        ],
+        [
+          34.1275777,
+          74.8432879
+        ],
+        [
+          34.1276031,
+          74.8432951
+        ],
+        [
+          34.1276285,
+          74.8432969
+        ],
+        [
+          34.1277233,
+          74.8432847
+        ]
+      ]
+    },
+    {
+      "id": 1120302060,
+      "name": "unnamed path",
+      "highway": "residential",
+      "coords": [
+        [
+          34.1274359,
+          74.8435193
+        ],
+        [
+          34.127538,
+          74.8440639
+        ]
+      ]
+    },
+    {
+      "id": 1120305416,
+      "name": "unnamed path",
+      "highway": "service",
+      "coords": [
+        [
+          34.1252,
+          74.8374607
+        ],
+        [
+          34.1251762,
+          74.8376333
+        ],
+        [
+          34.125161,
+          74.8377565
+        ],
+        [
+          34.1251231,
+          74.8381107
+        ],
+        [
+          34.1250766,
+          74.8386011
+        ],
+        [
+          34.1250427,
+          74.83887
+        ]
+      ]
+    },
+    {
+      "id": 1120305417,
+      "name": "unnamed path",
+      "highway": "service",
+      "coords": [
+        [
+          34.1257885,
+          74.8414017
+        ],
+        [
+          34.1262666,
+          74.8414508
+        ],
+        [
+          34.1263586,
+          74.8414605
+        ]
+      ]
+    },
+    {
+      "id": 1120305418,
+      "name": "unnamed path",
+      "highway": "service",
+      "coords": [
+        [
+          34.1258033,
+          74.8414976
+        ],
+        [
+          34.1257834,
+          74.8416049
+        ],
+        [
+          34.1257827,
+          74.8416527
+        ],
+        [
+          34.1257846,
+          74.8416959
+        ],
+        [
+          34.1258612,
+          74.8424273
+        ],
+        [
+          34.1259126,
+          74.8428452
+        ],
+        [
+          34.1259397,
+          74.843066
+        ],
+        [
+          34.1259598,
+          74.8431988
+        ],
+        [
+          34.1259831,
+          74.8433052
+        ]
+      ]
+    },
+    {
+      "id": 1120305419,
+      "name": "unnamed path",
+      "highway": "service",
+      "coords": [
+        [
+          34.1260318,
+          74.8435863
+        ],
+        [
+          34.1263939,
+          74.8434129
+        ],
+        [
+          34.1266102,
+          74.8433023
+        ]
+      ]
+    },
+    {
+      "id": 1120305420,
+      "name": "unnamed path",
+      "highway": "service",
+      "coords": [
+        [
+          34.1260819,
+          74.8428611
+        ],
+        [
+          34.1261535,
+          74.8428882
+        ],
+        [
+          34.1261855,
+          74.8429094
+        ],
+        [
+          34.1262169,
+          74.8429375
+        ],
+        [
+          34.1262326,
+          74.8429595
+        ],
+        [
+          34.1262477,
+          74.8429868
+        ],
+        [
+          34.126274,
+          74.8430482
+        ],
+        [
+          34.1263939,
+          74.8434129
+        ]
+      ]
+    },
+    {
+      "id": 1120305421,
+      "name": "unnamed path",
+      "highway": "service",
+      "coords": [
+        [
+          34.1257288,
+          74.8406495
+        ],
+        [
+          34.126321,
+          74.8407344
+        ]
+      ]
+    },
+    {
+      "id": 1120305422,
+      "name": "unnamed path",
+      "highway": "service",
+      "coords": [
+        [
+          34.1263986,
+          74.8414637
+        ],
+        [
+          34.1267944,
+          74.8412373
+        ]
+      ]
+    },
+    {
+      "id": 1120305423,
+      "name": "unnamed path",
+      "highway": "service",
+      "coords": [
+        [
+          34.126622,
+          74.8434511
+        ],
+        [
+          34.1270453,
+          74.8432087
+        ]
+      ]
+    },
+    {
+      "id": 1120305424,
+      "name": "unnamed path",
+      "highway": "service",
+      "coords": [
+        [
+          34.1265133,
+          74.8418686
+        ],
+        [
+          34.1268725,
+          74.841844
+        ]
+      ]
+    },
+    {
+      "id": 1120307699,
+      "name": "unnamed path",
+      "highway": "service",
+      "coords": [
+        [
+          34.1231414,
+          74.840699
+        ],
+        [
+          34.1237817,
+          74.8407866
+        ]
+      ]
+    },
+    {
+      "id": 1120307700,
+      "name": "unnamed path",
+      "highway": "service",
+      "coords": [
+        [
+          34.1239268,
+          74.838809
+        ],
+        [
+          34.1238739,
+          74.8388049
+        ],
+        [
+          34.1236562,
+          74.8387997
+        ],
+        [
+          34.123639,
+          74.8388028
+        ],
+        [
+          34.1236306,
+          74.8388094
+        ],
+        [
+          34.1236243,
+          74.83882
+        ],
+        [
+          34.1236217,
+          74.8388347
+        ],
+        [
+          34.1236192,
+          74.838888
+        ]
+      ]
+    },
+    {
+      "id": 1120307701,
+      "name": "unnamed path",
+      "highway": "footway",
+      "coords": [
+        [
+          34.1224189,
+          74.8403326
+        ],
+        [
+          34.1221363,
+          74.8402992
+        ],
+        [
+          34.122105,
+          74.8402955
+        ]
+      ]
+    },
+    {
+      "id": 1120307702,
+      "name": "unnamed path",
+      "highway": "service",
+      "coords": [
+        [
+          34.1219549,
+          74.8402909
+        ],
+        [
+          34.1218734,
+          74.8402878
+        ],
+        [
+          34.121855,
+          74.8402955
+        ],
+        [
+          34.1218402,
+          74.8403203
+        ],
+        [
+          34.1218359,
+          74.8403578
+        ],
+        [
+          34.1218136,
+          74.8406801
+        ],
+        [
+          34.1218085,
+          74.8407527
+        ],
+        [
+          34.1218062,
+          74.8408237
+        ],
+        [
+          34.1218074,
+          74.840856
+        ],
+        [
+          34.1218139,
+          74.8408732
+        ],
+        [
+          34.1218282,
+          74.8408825
+        ],
+        [
+          34.12184,
+          74.840884
+        ],
+        [
+          34.1219787,
+          74.8408947
+        ],
+        [
+          34.1219984,
+          74.8408997
+        ],
+        [
+          34.1220094,
+          74.8409079
+        ],
+        [
+          34.122014,
+          74.840917
+        ],
+        [
+          34.1220169,
+          74.8409292
+        ],
+        [
+          34.1220154,
+          74.8410541
+        ]
+      ]
+    },
+    {
+      "id": 1120307703,
+      "name": "unnamed path",
+      "highway": "service",
+      "coords": [
+        [
+          34.1218136,
+          74.8406801
+        ],
+        [
+          34.122006,
+          74.8406953
+        ],
+        [
+          34.1224009,
+          74.8407265
+        ]
+      ]
+    },
+    {
+      "id": 1120307704,
+      "name": "unnamed path",
+      "highway": "service",
+      "coords": [
+        [
+          34.122006,
+          74.8406953
+        ],
+        [
+          34.1219984,
+          74.8408997
+        ]
+      ]
+    },
+    {
+      "id": 1120307705,
+      "name": "unnamed path",
+      "highway": "service",
+      "coords": [
+        [
+          34.1227801,
+          74.842569
+        ],
+        [
+          34.1227073,
+          74.8436492
+        ]
+      ]
+    },
+    {
+      "id": 1214245405,
+      "name": "unnamed path",
+      "highway": "residential",
+      "coords": [
+        [
+          34.1217138,
+          74.8413885
+        ],
+        [
+          34.1217131,
+          74.8412324
+        ],
+        [
+          34.1214736,
+          74.8412275
+        ],
+        [
+          34.1214738,
+          74.8411557
+        ]
+      ]
+    },
+    {
+      "id": 1281206547,
+      "name": "Lane 2",
+      "highway": "residential",
+      "coords": [
+        [
+          34.1270408,
+          74.837543
+        ],
+        [
+          34.1270216,
+          74.837384
+        ],
+        [
+          34.1270105,
+          74.8372177
+        ],
+        [
+          34.1269927,
+          74.8370997
+        ],
+        [
+          34.1269572,
+          74.8369575
+        ],
+        [
+          34.126915,
+          74.8367992
+        ],
+        [
+          34.1268839,
+          74.8366759
+        ],
+        [
+          34.1268573,
+          74.8365686
+        ],
+        [
+          34.1268407,
+          74.8364657
+        ]
+      ]
+    },
+    {
+      "id": 1281206548,
+      "name": "Lane 1",
+      "highway": "residential",
+      "coords": [
+        [
+          34.1273427,
+          74.8374708
+        ],
+        [
+          34.1273191,
+          74.8371855
+        ],
+        [
+          34.1273058,
+          74.8370326
+        ],
+        [
+          34.1272813,
+          74.8367751
+        ],
+        [
+          34.1272603,
+          74.836373
+        ]
+      ]
+    },
+    {
+      "id": 1352938113,
+      "name": "unnamed path",
+      "highway": "service",
+      "coords": [
+        [
+          34.1248252,
+          74.8413046
+        ],
+        [
+          34.1257075,
+          74.8413891
+        ],
+        [
+          34.1257885,
+          74.8414017
+        ]
+      ]
+    },
+    {
+      "id": 1352938117,
+      "name": "unnamed path",
+      "highway": "footway",
+      "coords": [
+        [
+          34.1244396,
+          74.8401995
+        ],
+        [
+          34.1244578,
+          74.839911
+        ],
+        [
+          34.1244679,
+          74.8397499
+        ],
+        [
+          34.1244668,
+          74.839728
+        ],
+        [
+          34.1244524,
+          74.8394348
+        ],
+        [
+          34.1244572,
+          74.8393827
+        ],
+        [
+          34.1244693,
+          74.8392509
+        ],
+        [
+          34.1247377,
+          74.8392706
+        ]
+      ]
+    },
+    {
+      "id": 1352938118,
+      "name": "unnamed path",
+      "highway": "footway",
+      "coords": [
+        [
+          34.1244524,
+          74.8394348
+        ],
+        [
+          34.1241782,
+          74.8393893
+        ]
+      ]
+    },
+    {
+      "id": 1352938120,
+      "name": "unnamed path",
+      "highway": "footway",
+      "coords": [
+        [
+          34.1238599,
+          74.8395384
+        ],
+        [
+          34.1235764,
+          74.8395312
+        ],
+        [
+          34.1235058,
+          74.8393676
+        ]
+      ]
+    },
+    {
+      "id": 1352938133,
+      "name": "unnamed path",
+      "highway": "footway",
+      "coords": [
+        [
+          34.1259126,
+          74.8428452
+        ],
+        [
+          34.125872,
+          74.8428499
+        ],
+        [
+          34.1254542,
+          74.8428984
+        ]
+      ]
+    },
+    {
+      "id": 1352938134,
+      "name": "unnamed path",
+      "highway": "footway",
+      "coords": [
+        [
+          34.125872,
+          74.8428499
+        ],
+        [
+          34.1258264,
+          74.8423739
+        ],
+        [
+          34.1254232,
+          74.8424147
+        ],
+        [
+          34.1254027,
+          74.841768
+        ],
+        [
+          34.1253922,
+          74.8414372
+        ]
+      ]
+    },
+    {
+      "id": 1352938135,
+      "name": "unnamed path",
+      "highway": "footway",
+      "coords": [
+        [
+          34.1254027,
+          74.841768
+        ],
+        [
+          34.1251549,
+          74.8417713
+        ]
+      ]
+    },
+    {
+      "id": 1352938148,
+      "name": "unnamed path",
+      "highway": "path",
+      "coords": [
+        [
+          34.1237932,
+          74.8441806
+        ],
+        [
+          34.1238179,
+          74.8441601
+        ],
+        [
+          34.1238411,
+          74.8441635
+        ],
+        [
+          34.1238461,
+          74.8441993
+        ],
+        [
+          34.12387,
+          74.8442334
+        ],
+        [
+          34.123887,
+          74.8442495
+        ],
+        [
+          34.1238609,
+          74.8442947
+        ],
+        [
+          34.1238397,
+          74.8443202
+        ],
+        [
+          34.1238263,
+          74.8443509
+        ],
+        [
+          34.123801,
+          74.8443602
+        ],
+        [
+          34.1237791,
+          74.8443398
+        ],
+        [
+          34.1237594,
+          74.8443211
+        ],
+        [
+          34.1237248,
+          74.844304
+        ],
+        [
+          34.1237199,
+          74.8442904
+        ],
+        [
+          34.1237326,
+          74.8442776
+        ],
+        [
+          34.1237347,
+          74.8442453
+        ],
+        [
+          34.1237467,
+          74.8442129
+        ],
+        [
+          34.1237573,
+          74.8441984
+        ],
+        [
+          34.1237721,
+          74.8442001
+        ],
+        [
+          34.1237932,
+          74.8441806
+        ]
+      ]
+    },
+    {
+      "id": 1352938154,
+      "name": "unnamed path",
+      "highway": "path",
+      "coords": [
+        [
+          34.1259081,
+          74.8410681
+        ],
+        [
+          34.1257264,
+          74.8408731
+        ]
+      ]
+    },
+    {
+      "id": 1352938158,
+      "name": "unnamed path",
+      "highway": "service",
+      "coords": [
+        [
+          34.1264233,
+          74.8393573
+        ],
+        [
+          34.1263654,
+          74.839352
+        ],
+        [
+          34.1260653,
+          74.8393246
+        ],
+        [
+          34.126032,
+          74.8398571
+        ],
+        [
+          34.126384,
+          74.8398893
+        ]
+      ]
+    },
+    {
+      "id": 1352939775,
+      "name": "unnamed path",
+      "highway": "path",
+      "coords": [
+        [
+          34.1244578,
+          74.839911
+        ],
+        [
+          34.1243755,
+          74.8399472
+        ],
+        [
+          34.1241818,
+          74.8399644
+        ],
+        [
+          34.1240024,
+          74.840003
+        ],
+        [
+          34.1239136,
+          74.8400566
+        ],
+        [
+          34.1238242,
+          74.8401267
+        ]
+      ]
+    },
+    {
+      "id": 1352939776,
+      "name": "unnamed path",
+      "highway": "path",
+      "coords": [
+        [
+          34.124205,
+          74.8397278
+        ],
+        [
+          34.1241818,
+          74.8399644
+        ]
+      ]
+    },
+    {
+      "id": 1352939783,
+      "name": "unnamed path",
+      "highway": "footway",
+      "coords": [
+        [
+          34.1221363,
+          74.8402992
+        ],
+        [
+          34.1221468,
+          74.8401405
+        ]
+      ]
+    },
+    {
+      "id": 1354347705,
+      "name": "unnamed path",
+      "highway": "footway",
+      "coords": [
+        [
+          34.1263636,
+          74.8390361
+        ],
+        [
+          34.1265852,
+          74.8389948
+        ]
+      ]
+    },
+    {
+      "id": 1354349020,
+      "name": "unnamed path",
+      "highway": "service",
+      "coords": [
+        [
+          34.1244658,
+          74.8387983
+        ],
+        [
+          34.1244438,
+          74.8388675
+        ],
+        [
+          34.1244047,
+          74.8389202
+        ],
+        [
+          34.1243431,
+          74.8389189
+        ],
+        [
+          34.1242782,
+          74.8389108
+        ],
+        [
+          34.1242167,
+          74.838877
+        ],
+        [
+          34.1241898,
+          74.8388067
+        ],
+        [
+          34.1241798,
+          74.8387495
+        ]
+      ]
+    },
+    {
+      "id": 1354349286,
+      "name": "unnamed path",
+      "highway": "footway",
+      "coords": [
+        [
+          34.1238526,
+          74.8396582
+        ],
+        [
+          34.1244668,
+          74.839728
+        ],
+        [
+          34.1248639,
+          74.8397732
+        ],
+        [
+          34.1249592,
+          74.839784
+        ],
+        [
+          34.1257061,
+          74.8398689
+        ],
+        [
+          34.1259242,
+          74.8398915
+        ],
+        [
+          34.1263803,
+          74.8399389
+        ]
+      ]
+    },
+    {
+      "id": 1354349615,
+      "name": "unnamed path",
+      "highway": "footway",
+      "coords": [
+        [
+          34.1236901,
+          74.8420716
+        ],
+        [
+          34.123747,
+          74.8420774
+        ],
+        [
+          34.1237704,
+          74.8420775
+        ],
+        [
+          34.1237927,
+          74.8420858
+        ],
+        [
+          34.1238122,
+          74.8421014
+        ],
+        [
+          34.1238271,
+          74.8421231
+        ],
+        [
+          34.1238374,
+          74.8421543
+        ],
+        [
+          34.1238383,
+          74.8421878
+        ],
+        [
+          34.1238297,
+          74.8422198
+        ],
+        [
+          34.1238127,
+          74.8422463
+        ],
+        [
+          34.1237892,
+          74.8422644
+        ],
+        [
+          34.1237621,
+          74.8422717
+        ],
+        [
+          34.1237346,
+          74.8422676
+        ],
+        [
+          34.1236749,
+          74.8422593
+        ]
+      ]
+    },
+    {
+      "id": 1354349618,
+      "name": "unnamed path",
+      "highway": "service",
+      "coords": [
+        [
+          34.1237222,
+          74.8416743
+        ],
+        [
+          34.1240926,
+          74.8417174
+        ]
+      ]
+    },
+    {
+      "id": 1354349619,
+      "name": "unnamed path",
+      "highway": "footway",
+      "coords": [
+        [
+          34.1236039,
+          74.8445396
+        ],
+        [
+          34.1237774,
+          74.8447267
+        ]
+      ]
+    },
+    {
+      "id": 1354349620,
+      "name": "unnamed path",
+      "highway": "service",
+      "coords": [
+        [
+          34.1261006,
+          74.8423326
+        ],
+        [
+          34.1261429,
+          74.8425208
+        ],
+        [
+          34.1262477,
+          74.8429868
+        ]
+      ]
+    },
+    {
+      "id": 1354349622,
+      "name": "unnamed path",
+      "highway": "footway",
+      "coords": [
+        [
+          34.1262788,
+          74.8417765
+        ],
+        [
+          34.1259676,
+          74.8419286
+        ]
+      ]
+    },
+    {
+      "id": 1354349623,
+      "name": "unnamed path",
+      "highway": "footway",
+      "coords": [
+        [
+          34.1262901,
+          74.8421086
+        ],
+        [
+          34.1260694,
+          74.8422113
+        ]
+      ]
+    },
+    {
+      "id": 1354349624,
+      "name": "unnamed path",
+      "highway": "footway",
+      "coords": [
+        [
+          34.1263126,
+          74.842451
+        ],
+        [
+          34.1261429,
+          74.8425208
+        ]
+      ]
+    },
+    {
+      "id": 1354350299,
+      "name": "unnamed path",
+      "highway": "path",
+      "coords": [
+        [
+          34.1248639,
+          74.8397732
+        ],
+        [
+          34.1248435,
+          74.8398389
+        ],
+        [
+          34.1248115,
+          74.8398915
+        ],
+        [
+          34.124768,
+          74.8399408
+        ],
+        [
+          34.1244578,
+          74.839911
+        ]
+      ]
+    },
+    {
+      "id": 1354350300,
+      "name": "unnamed path",
+      "highway": "footway",
+      "coords": [
+        [
+          34.1249962,
+          74.8392826
+        ],
+        [
+          34.1249689,
+          74.8393325
+        ],
+        [
+          34.1249667,
+          74.8394504
+        ],
+        [
+          34.1249643,
+          74.8395751
+        ],
+        [
+          34.1249765,
+          74.8396115
+        ],
+        [
+          34.1249592,
+          74.839784
+        ],
+        [
+          34.124919,
+          74.8401866
+        ],
+        [
+          34.1249137,
+          74.8402495
+        ]
+      ]
+    },
+    {
+      "id": 1354350678,
+      "name": "unnamed path",
+      "highway": "footway",
+      "coords": [
+        [
+          34.1257258,
+          74.8395512
+        ],
+        [
+          34.1249667,
+          74.8394504
+        ],
+        [
+          34.1244572,
+          74.8393827
+        ]
+      ]
+    },
+    {
+      "id": 1354350909,
+      "name": "unnamed path",
+      "highway": "footway",
+      "coords": [
+        [
+          34.1263654,
+          74.839352
+        ],
+        [
+          34.1263698,
+          74.8393118
+        ],
+        [
+          34.1259722,
+          74.8392765
+        ],
+        [
+          34.1257549,
+          74.8392572
+        ]
+      ]
+    },
+    {
+      "id": 1354350910,
+      "name": "unnamed path",
+      "highway": "footway",
+      "coords": [
+        [
+          34.1259722,
+          74.8392765
+        ],
+        [
+          34.1259242,
+          74.8398915
+        ]
+      ]
+    },
+    {
+      "id": 1354352313,
+      "name": "unnamed path",
+      "highway": "footway",
+      "coords": [
+        [
+          34.12634,
+          74.8404843
+        ],
+        [
+          34.1257346,
+          74.840419
+        ]
+      ]
+    },
+    {
+      "id": 1354352317,
+      "name": "unnamed path",
+      "highway": "footway",
+      "coords": [
+        [
+          34.124459,
+          74.8447324
+        ],
+        [
+          34.1244501,
+          74.844287
+        ]
+      ]
+    },
+    {
+      "id": 1411108365,
+      "name": "unnamed path",
+      "highway": "residential",
+      "coords": [
+        [
+          34.1273312,
+          74.844124
+        ],
+        [
+          34.127538,
+          74.8440639
+        ],
+        [
+          34.1278521,
+          74.8439727
+        ],
+        [
+          34.1281976,
+          74.8438615
+        ],
+        [
+          34.1283572,
+          74.8438101
+        ],
+        [
+          34.1284041,
+          74.8437827
+        ],
+        [
+          34.1284436,
+          74.8437435
+        ]
+      ]
+    }
+  ],
+  "results": [
+    {
+      "id": 55672514,
+      "name": "Lake Dal Road",
+      "tags": {
+        "highway": "residential",
+        "name": "Lake Dal Road"
+      },
+      "center": [
+        34.127389,
+        74.841834
+      ],
+      "nodeCount": 8
+    },
+    {
+      "id": 361691978,
+      "name": "yes (361691978)",
+      "tags": {
+        "building": "yes"
+      },
+      "center": [
+        34.121697,
+        74.841672
+      ],
+      "nodeCount": 11
+    },
+    {
+      "id": 361691979,
+      "name": "yes (361691979)",
+      "tags": {
+        "building": "yes"
+      },
+      "center": [
+        34.12144,
+        74.841354
+      ],
+      "nodeCount": 11
+    },
+    {
+      "id": 361691980,
+      "name": "yes (361691980)",
+      "tags": {
+        "building": "yes"
+      },
+      "center": [
+        34.126142,
+        74.841625
+      ],
+      "nodeCount": 11
+    },
+    {
+      "id": 361691981,
+      "name": "yes (361691981)",
+      "tags": {
+        "building": "yes"
+      },
+      "center": [
+        34.127114,
+        74.842957
+      ],
+      "nodeCount": 13
+    },
+    {
+      "id": 361691982,
+      "name": "yes (361691982)",
+      "tags": {
+        "building": "yes"
+      },
+      "center": [
+        34.122912,
+        74.843008
+      ],
+      "nodeCount": 13
+    },
+    {
+      "id": 361691983,
+      "name": "yes (361691983)",
+      "tags": {
+        "building": "yes"
+      },
+      "center": [
+        34.126825,
+        74.842692
+      ],
+      "nodeCount": 13
+    },
+    {
+      "id": 361691984,
+      "name": "yes (361691984)",
+      "tags": {
+        "building": "yes"
+      },
+      "center": [
+        34.122939,
+        74.842758
+      ],
+      "nodeCount": 13
+    },
+    {
+      "id": 361691985,
+      "name": "yes (361691985)",
+      "tags": {
+        "building": "yes"
+      },
+      "center": [
+        34.123263,
+        74.839685
+      ],
+      "nodeCount": 13
+    },
+    {
+      "id": 361691987,
+      "name": "yes (361691987)",
+      "tags": {
+        "building": "yes"
+      },
+      "center": [
+        34.126529,
+        74.843562
+      ],
+      "nodeCount": 13
+    },
+    {
+      "id": 361691989,
+      "name": "yes (361691989)",
+      "tags": {
+        "building": "yes"
+      },
+      "center": [
+        34.122838,
+        74.843533
+      ],
+      "nodeCount": 13
+    },
+    {
+      "id": 361691990,
+      "name": "yes (361691990)",
+      "tags": {
+        "building": "yes"
+      },
+      "center": [
+        34.126288,
+        74.843678
+      ],
+      "nodeCount": 13
+    },
+    {
+      "id": 361691992,
+      "name": "yes (361691992)",
+      "tags": {
+        "building": "yes"
+      },
+      "center": [
+        34.122867,
+        74.843266
+      ],
+      "nodeCount": 13
+    },
+    {
+      "id": 361691993,
+      "name": "yes (361691993)",
+      "tags": {
+        "building": "yes"
+      },
+      "center": [
+        34.126229,
+        74.843246
+      ],
+      "nodeCount": 13
+    },
+    {
+      "id": 361691994,
+      "name": "Jhelum Hostel",
+      "tags": {
+        "name": "Jhelum Hostel",
+        "tourism": "hostel"
+      },
+      "center": [
+        34.123148,
+        74.842038
+      ],
+      "nodeCount": 135
+    },
+    {
+      "id": 361691999,
+      "name": "yes (361691999)",
+      "tags": {
+        "building": "yes"
+      },
+      "center": [
+        34.122237,
+        74.840885
+      ],
+      "nodeCount": 11
+    },
+    {
+      "id": 361692002,
+      "name": "yes (361692002)",
+      "tags": {
+        "building": "yes"
+      },
+      "center": [
+        34.12659,
+        74.841045
+      ],
+      "nodeCount": 16
+    },
+    {
+      "id": 361692004,
+      "name": "yes (361692004)",
+      "tags": {
+        "building": "yes"
+      },
+      "center": [
+        34.12283,
+        74.840823
+      ],
+      "nodeCount": 18
+    },
+    {
+      "id": 361692007,
+      "name": "Main Faculty Building",
+      "tags": {
+        "building": "university",
+        "building:levels": "4",
+        "layer": "1",
+        "name": "Main Faculty Building"
+      },
+      "center": [
+        34.124809,
+        74.839366
+      ],
+      "nodeCount": 25
+    },
+    {
+      "id": 361692009,
+      "name": "Indus Hostel",
+      "tags": {
+        "alt_name": "Indus Hostel, NIT Srinagar",
+        "name": "Indus Hostel",
+        "tourism": "hostel"
+      },
+      "center": [
+        34.123116,
+        74.840419
+      ],
+      "nodeCount": 39
+    },
+    {
+      "id": 361692011,
+      "name": "yes (361692011)",
+      "tags": {
+        "building": "yes"
+      },
+      "center": [
+        34.127108,
+        74.842207
+      ],
+      "nodeCount": 29
+    },
+    {
+      "id": 361692014,
+      "name": "yes (361692014)",
+      "tags": {
+        "building": "yes"
+      },
+      "center": [
+        34.125453,
+        74.840914
+      ],
+      "nodeCount": 33
+    },
+    {
+      "id": 361692024,
+      "name": "yes (361692024)",
+      "tags": {
+        "building": "yes"
+      },
+      "center": [
+        34.12178,
+        74.841295
+      ],
+      "nodeCount": 5
+    },
+    {
+      "id": 361692025,
+      "name": "yes (361692025)",
+      "tags": {
+        "building": "yes"
+      },
+      "center": [
+        34.123431,
+        74.838912
+      ],
+      "nodeCount": 5
+    },
+    {
+      "id": 361692029,
+      "name": "library (361692029)",
+      "tags": {
+        "amenity": "library"
+      },
+      "center": [
+        34.124059,
+        74.83942
+      ],
+      "nodeCount": 12
+    },
+    {
+      "id": 361692031,
+      "name": "yes (361692031)",
+      "tags": {
+        "building": "yes"
+      },
+      "center": [
+        34.123683,
+        74.840159
+      ],
+      "nodeCount": 5
+    },
+    {
+      "id": 361692032,
+      "name": "yes (361692032)",
+      "tags": {
+        "building": "yes"
+      },
+      "center": [
+        34.124355,
+        74.839301
+      ],
+      "nodeCount": 5
+    },
+    {
+      "id": 361692034,
+      "name": "yes (361692034)",
+      "tags": {
+        "building": "yes"
+      },
+      "center": [
+        34.126209,
+        74.840577
+      ],
+      "nodeCount": 5
+    },
+    {
+      "id": 361692036,
+      "name": "yes (361692036)",
+      "tags": {
+        "building": "yes",
+        "layer": "1"
+      },
+      "center": [
+        34.125669,
+        74.83917
+      ],
+      "nodeCount": 5
+    },
+    {
+      "id": 361692039,
+      "name": "yes (361692039)",
+      "tags": {
+        "building": "yes"
+      },
+      "center": [
+        34.125205,
+        74.8402
+      ],
+      "nodeCount": 5
+    },
+    {
+      "id": 361692040,
+      "name": "yes (361692040)",
+      "tags": {
+        "building": "yes"
+      },
+      "center": [
+        34.126272,
+        74.840311
+      ],
+      "nodeCount": 5
+    },
+    {
+      "id": 361692042,
+      "name": "yes (361692042)",
+      "tags": {
+        "building": "yes"
+      },
+      "center": [
+        34.122831,
+        74.842002
+      ],
+      "nodeCount": 5
+    },
+    {
+      "id": 361692044,
+      "name": "yes (361692044)",
+      "tags": {
+        "building": "yes"
+      },
+      "center": [
+        34.125894,
+        74.839533
+      ],
+      "nodeCount": 5
+    },
+    {
+      "id": 361692046,
+      "name": "yes (361692046)",
+      "tags": {
+        "building": "yes"
+      },
+      "center": [
+        34.126759,
+        74.842153
+      ],
+      "nodeCount": 5
+    },
+    {
+      "id": 361692048,
+      "name": "Professor Masijd",
+      "tags": {
+        "building": "mosque",
+        "name": "Professor Masijd"
+      },
+      "center": [
+        34.126773,
+        74.843511
+      ],
+      "nodeCount": 5
+    },
+    {
+      "id": 361692049,
+      "name": "yes (361692049)",
+      "tags": {
+        "building": "yes"
+      },
+      "center": [
+        34.123491,
+        74.838665
+      ],
+      "nodeCount": 5
+    },
+    {
+      "id": 361692051,
+      "name": "yes (361692051)",
+      "tags": {
+        "building": "yes"
+      },
+      "center": [
+        34.124192,
+        74.842958
+      ],
+      "nodeCount": 5
+    },
+    {
+      "id": 361692052,
+      "name": "yes (361692052)",
+      "tags": {
+        "building": "yes"
+      },
+      "center": [
+        34.123539,
+        74.83989
+      ],
+      "nodeCount": 5
+    },
+    {
+      "id": 361692054,
+      "name": "yes (361692054)",
+      "tags": {
+        "building": "yes"
+      },
+      "center": [
+        34.126741,
+        74.843318
+      ],
+      "nodeCount": 5
+    },
+    {
+      "id": 361692055,
+      "name": "yes (361692055)",
+      "tags": {
+        "building": "yes"
+      },
+      "center": [
+        34.124136,
+        74.844832
+      ],
+      "nodeCount": 5
+    },
+    {
+      "id": 361692058,
+      "name": "Physiotherapy Centre",
+      "tags": {
+        "building": "yes",
+        "healthcare": "physiotherapist",
+        "name": "Physiotherapy Centre"
+      },
+      "center": [
+        34.123343,
+        74.839994
+      ],
+      "nodeCount": 5
+    },
+    {
+      "id": 361692059,
+      "name": "yes (361692059)",
+      "tags": {
+        "building": "yes"
+      },
+      "center": [
+        34.12583,
+        74.840084
+      ],
+      "nodeCount": 5
+    },
+    {
+      "id": 361692061,
+      "name": "yes (361692061)",
+      "tags": {
+        "building": "yes"
+      },
+      "center": [
+        34.125308,
+        74.840418
+      ],
+      "nodeCount": 5
+    },
+    {
+      "id": 361692062,
+      "name": "yes (361692062)",
+      "tags": {
+        "building": "yes"
+      },
+      "center": [
+        34.126171,
+        74.840204
+      ],
+      "nodeCount": 5
+    },
+    {
+      "id": 361692064,
+      "name": "yes (361692064)",
+      "tags": {
+        "building": "yes"
+      },
+      "center": [
+        34.125904,
+        74.839147
+      ],
+      "nodeCount": 5
+    },
+    {
+      "id": 361692065,
+      "name": "yes (361692065)",
+      "tags": {
+        "building": "yes"
+      },
+      "center": [
+        34.126207,
+        74.840026
+      ],
+      "nodeCount": 5
+    },
+    {
+      "id": 361692067,
+      "name": "yes (361692067)",
+      "tags": {
+        "building": "yes"
+      },
+      "center": [
+        34.126234,
+        74.839204
+      ],
+      "nodeCount": 5
+    },
+    {
+      "id": 361692070,
+      "name": "yes (361692070)",
+      "tags": {
+        "building": "yes"
+      },
+      "center": [
+        34.125127,
+        74.841195
+      ],
+      "nodeCount": 5
+    },
+    {
+      "id": 361692071,
+      "name": "yes (361692071)",
+      "tags": {
+        "building": "yes"
+      },
+      "center": [
+        34.123255,
+        74.840106
+      ],
+      "nodeCount": 5
+    },
+    {
+      "id": 361692072,
+      "name": "High Voltage Lab",
+      "tags": {
+        "building": "yes",
+        "name": "High Voltage Lab"
+      },
+      "center": [
+        34.124687,
+        74.840063
+      ],
+      "nodeCount": 5
+    },
+    {
+      "id": 361692074,
+      "name": "yes (361692074)",
+      "tags": {
+        "building": "yes"
+      },
+      "center": [
+        34.121618,
+        74.840198
+      ],
+      "nodeCount": 5
+    },
+    {
+      "id": 361692075,
+      "name": "yes (361692075)",
+      "tags": {
+        "building": "yes"
+      },
+      "center": [
+        34.123737,
+        74.839772
+      ],
+      "nodeCount": 5
+    },
+    {
+      "id": 361692076,
+      "name": "yes (361692076)",
+      "tags": {
+        "building": "yes"
+      },
+      "center": [
+        34.122489,
+        74.842127
+      ],
+      "nodeCount": 5
+    },
+    {
+      "id": 361692077,
+      "name": "Water Resources Management Centre",
+      "tags": {
+        "alt_name": "WRMC",
+        "building": "yes",
+        "name": "Water Resources Management Centre"
+      },
+      "center": [
+        34.126614,
+        74.838986
+      ],
+      "nodeCount": 6
+    },
+    {
+      "id": 361692078,
+      "name": "yes (361692078)",
+      "tags": {
+        "building": "yes"
+      },
+      "center": [
+        34.126309,
+        74.842914
+      ],
+      "nodeCount": 5
+    },
+    {
+      "id": 361692079,
+      "name": "yes (361692079)",
+      "tags": {
+        "building": "yes"
+      },
+      "center": [
+        34.123717,
+        74.83997
+      ],
+      "nodeCount": 5
+    },
+    {
+      "id": 361692080,
+      "name": "yes (361692080)",
+      "tags": {
+        "building": "yes"
+      },
+      "center": [
+        34.122512,
+        74.841745
+      ],
+      "nodeCount": 5
+    },
+    {
+      "id": 361692081,
+      "name": "yes (361692081)",
+      "tags": {
+        "building": "yes"
+      },
+      "center": [
+        34.124969,
+        74.839862
+      ],
+      "nodeCount": 9
+    },
+    {
+      "id": 361692083,
+      "name": "Chenab Hostel",
+      "tags": {
+        "alt_name": "Chenab Hostel, NIT Srinagar",
+        "name": "Chenab Hostel",
+        "tourism": "hostel"
+      },
+      "center": [
+        34.122518,
+        74.841253
+      ],
+      "nodeCount": 41
+    },
+    {
+      "id": 361692085,
+      "name": "Lecture Halls",
+      "tags": {
+        "indoor": "room",
+        "level": "0",
+        "name": "Lecture Halls",
+        "room": "classroom"
+      },
+      "center": [
+        34.124442,
+        74.839752
+      ],
+      "nodeCount": 39
+    },
+    {
+      "id": 361692087,
+      "name": "yes (361692087)",
+      "tags": {
+        "building": "yes"
+      },
+      "center": [
+        34.125364,
+        74.83999
+      ],
+      "nodeCount": 50
+    },
+    {
+      "id": 361692090,
+      "name": "yes (361692090)",
+      "tags": {
+        "building": "yes"
+      },
+      "center": [
+        34.125949,
+        74.84032
+      ],
+      "nodeCount": 7
+    },
+    {
+      "id": 361692092,
+      "name": "yes (361692092)",
+      "tags": {
+        "building": "yes"
+      },
+      "center": [
+        34.125062,
+        74.841057
+      ],
+      "nodeCount": 7
+    },
+    {
+      "id": 361692093,
+      "name": "yes (361692093)",
+      "tags": {
+        "building": "yes"
+      },
+      "center": [
+        34.126249,
+        74.842576
+      ],
+      "nodeCount": 7
+    },
+    {
+      "id": 361692095,
+      "name": "yes (361692095)",
+      "tags": {
+        "building": "yes"
+      },
+      "center": [
+        34.1262,
+        74.840854
+      ],
+      "nodeCount": 7
+    },
+    {
+      "id": 361692097,
+      "name": "yes (361692097)",
+      "tags": {
+        "building": "yes"
+      },
+      "center": [
+        34.121743,
+        74.842093
+      ],
+      "nodeCount": 7
+    },
+    {
+      "id": 361692099,
+      "name": "Civil Mechanical Labratories",
+      "tags": {
+        "building": "yes",
+        "name": "Civil Mechanical Labratories"
+      },
+      "center": [
+        34.12649,
+        74.839544
+      ],
+      "nodeCount": 5
+    },
+    {
+      "id": 361692101,
+      "name": "yes (361692101)",
+      "tags": {
+        "building": "yes"
+      },
+      "center": [
+        34.125961,
+        74.841168
+      ],
+      "nodeCount": 9
+    },
+    {
+      "id": 361692103,
+      "name": "yes (361692103)",
+      "tags": {
+        "building": "yes"
+      },
+      "center": [
+        34.122718,
+        74.842702
+      ],
+      "nodeCount": 9
+    },
+    {
+      "id": 361692104,
+      "name": "yes (361692104)",
+      "tags": {
+        "building": "yes"
+      },
+      "center": [
+        34.122296,
+        74.841659
+      ],
+      "nodeCount": 9
+    },
+    {
+      "id": 361692106,
+      "name": "yes (361692106)",
+      "tags": {
+        "building": "yes"
+      },
+      "center": [
+        34.126464,
+        74.842734
+      ],
+      "nodeCount": 9
+    },
+    {
+      "id": 361692110,
+      "name": "yes (361692110)",
+      "tags": {
+        "building": "yes"
+      },
+      "center": [
+        34.123466,
+        74.839265
+      ],
+      "nodeCount": 10
+    },
+    {
+      "id": 361692112,
+      "name": "marketplace (361692112)",
+      "tags": {
+        "amenity": "marketplace"
+      },
+      "center": [
+        34.122692,
+        74.839818
+      ],
+      "nodeCount": 9
+    },
+    {
+      "id": 361692114,
+      "name": "yes (361692114)",
+      "tags": {
+        "building": "yes"
+      },
+      "center": [
+        34.12228,
+        74.841865
+      ],
+      "nodeCount": 9
+    },
+    {
+      "id": 361692115,
+      "name": "yes (361692115)",
+      "tags": {
+        "building": "yes"
+      },
+      "center": [
+        34.126506,
+        74.843094
+      ],
+      "nodeCount": 9
+    },
+    {
+      "id": 361692116,
+      "name": "yes (361692116)",
+      "tags": {
+        "building": "yes"
+      },
+      "center": [
+        34.126422,
+        74.842036
+      ],
+      "nodeCount": 9
+    },
+    {
+      "id": 361692118,
+      "name": "yes (361692118)",
+      "tags": {
+        "building": "yes"
+      },
+      "center": [
+        34.12226,
+        74.842108
+      ],
+      "nodeCount": 9
+    },
+    {
+      "id": 361692119,
+      "name": "yes (361692119)",
+      "tags": {
+        "building": "yes"
+      },
+      "center": [
+        34.126936,
+        74.84055
+      ],
+      "nodeCount": 9
+    },
+    {
+      "id": 361692121,
+      "name": "yes (361692121)",
+      "tags": {
+        "building": "yes"
+      },
+      "center": [
+        34.12265,
+        74.843317
+      ],
+      "nodeCount": 9
+    },
+    {
+      "id": 361692122,
+      "name": "yes (361692122)",
+      "tags": {
+        "building": "yes"
+      },
+      "center": [
+        34.126449,
+        74.842388
+      ],
+      "nodeCount": 9
+    },
+    {
+      "id": 361692124,
+      "name": "yes (361692124)",
+      "tags": {
+        "building": "yes"
+      },
+      "center": [
+        34.123913,
+        74.844858
+      ],
+      "nodeCount": 9
+    },
+    {
+      "id": 361692126,
+      "name": "yes (361692126)",
+      "tags": {
+        "building": "yes"
+      },
+      "center": [
+        34.126981,
+        74.8434
+      ],
+      "nodeCount": 9
+    },
+    {
+      "id": 361692129,
+      "name": "yes (361692129)",
+      "tags": {
+        "building": "yes"
+      },
+      "center": [
+        34.12263,
+        74.843594
+      ],
+      "nodeCount": 9
+    },
+    {
+      "id": 361692133,
+      "name": "yes (361692133)",
+      "tags": {
+        "building": "yes"
+      },
+      "center": [
+        34.12712,
+        74.841567
+      ],
+      "nodeCount": 9
+    },
+    {
+      "id": 361692137,
+      "name": "yes (361692137)",
+      "tags": {
+        "building": "yes"
+      },
+      "center": [
+        34.127026,
+        74.841334
+      ],
+      "nodeCount": 9
+    },
+    {
+      "id": 361692139,
+      "name": "yes (361692139)",
+      "tags": {
+        "building": "yes"
+      },
+      "center": [
+        34.126396,
+        74.841708
+      ],
+      "nodeCount": 9
+    },
+    {
+      "id": 361692142,
+      "name": "yes (361692142)",
+      "tags": {
+        "building": "yes"
+      },
+      "center": [
+        34.122684,
+        74.843016
+      ],
+      "nodeCount": 9
+    },
+    {
+      "id": 361692145,
+      "name": "Boys' Hostel Mosque",
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "name": "Boys' Hostel Mosque",
+        "religion": "muslim"
+      },
+      "center": [
+        34.123472,
+        74.84278
+      ],
+      "nodeCount": 10
+    },
+    {
+      "id": 361692147,
+      "name": "Drawing Halls",
+      "tags": {
+        "building": "yes",
+        "building:levels": "1",
+        "name": "Drawing Halls"
+      },
+      "center": [
+        34.124943,
+        74.840535
+      ],
+      "nodeCount": 10
+    },
+    {
+      "id": 361692151,
+      "name": "yes (361692151)",
+      "tags": {
+        "building": "yes"
+      },
+      "center": [
+        34.126862,
+        74.843082
+      ],
+      "nodeCount": 10
+    },
+    {
+      "id": 517034329,
+      "name": "Dargah Hazratbal Shrine",
+      "tags": {
+        "addr:district": "srinagar",
+        "addr:street": "Hazratbal Road",
+        "denomination": "sunni",
+        "landuse": "religious",
+        "name": "Dargah Hazratbal Shrine",
+        "religion": "muslim",
+        "wikidata": "Q2478856",
+        "wikipedia": "en:Hazratbal Shrine"
+      },
+      "center": [
+        34.129033,
+        74.840966
+      ],
+      "nodeCount": 22
+    },
+    {
+      "id": 680211432,
+      "name": "Hazratbal Road",
+      "tags": {
+        "highway": "secondary",
+        "lanes": "2",
+        "maxspeed": "60",
+        "name": "Hazratbal Road",
+        "ref:old": "NH1D",
+        "shoulder": "no",
+        "smoothness": "intermediate",
+        "surface": "asphalt"
+      },
+      "center": [
+        34.123984,
+        74.836867
+      ],
+      "nodeCount": 23
+    },
+    {
+      "id": 746626522,
+      "name": "National Institute of Technology, Srinagar",
+      "tags": {
+        "addr:city": "Srinagar",
+        "addr:postcode": "190006",
+        "addr:street": "Hazratbal",
+        "alt_name": "NIT Srinagar",
+        "amenity": "university",
+        "education": "university",
+        "name": "National Institute of Technology, Srinagar",
+        "name:hi": "राष्ट्रीय प्रौद्योगिकी संस्थान, श्रीनगर",
+        "short_name": "NIT SRI;NIT-SRI;NITSRI",
+        "website": "https://nitsri.ac.in/",
+        "wikidata": "Q6973723",
+        "wikipedia": "en:National Institute of Technology, Srinagar"
+      },
+      "center": [
+        34.124911,
+        74.840585
+      ],
+      "nodeCount": 55
+    },
+    {
+      "id": 746628055,
+      "name": "pitch (746628055)",
+      "tags": {
+        "leisure": "pitch",
+        "sport": "badminton"
+      },
+      "center": [
+        34.123578,
+        74.840674
+      ],
+      "nodeCount": 5
+    },
+    {
+      "id": 746629000,
+      "name": "pitch (746629000)",
+      "tags": {
+        "leisure": "pitch",
+        "sport": "badminton"
+      },
+      "center": [
+        34.122867,
+        74.841169
+      ],
+      "nodeCount": 5
+    },
+    {
+      "id": 746629869,
+      "name": "Prefab Hostel",
+      "tags": {
+        "name": "Prefab Hostel",
+        "tourism": "hostel"
+      },
+      "center": [
+        34.123976,
+        74.842142
+      ],
+      "nodeCount": 5
+    },
+    {
+      "id": 746630856,
+      "name": "park (746630856)",
+      "tags": {
+        "leisure": "park"
+      },
+      "center": [
+        34.123496,
+        74.840909
+      ],
+      "nodeCount": 5
+    },
+    {
+      "id": 746630899,
+      "name": "park (746630899)",
+      "tags": {
+        "leisure": "park"
+      },
+      "center": [
+        34.123467,
+        74.841318
+      ],
+      "nodeCount": 5
+    },
+    {
+      "id": 815728291,
+      "name": "commercial (815728291)",
+      "tags": {
+        "building": "commercial",
+        "building:levels": "2"
+      },
+      "center": [
+        34.127438,
+        74.836773
+      ],
+      "nodeCount": 13
+    },
+    {
+      "id": 815728292,
+      "name": "commercial (815728292)",
+      "tags": {
+        "building": "commercial",
+        "building:levels": "2"
+      },
+      "center": [
+        34.127498,
+        74.837999
+      ],
+      "nodeCount": 13
+    },
+    {
+      "id": 1118411543,
+      "name": "Hazratbal Road",
+      "tags": {
+        "highway": "secondary",
+        "lanes": "2",
+        "maxspeed": "60",
+        "name": "Hazratbal Road",
+        "oneway": "yes",
+        "ref:old": "NH1D",
+        "shoulder": "no",
+        "smoothness": "intermediate",
+        "surface": "asphalt"
+      },
+      "center": [
+        34.127152,
+        74.838808
+      ],
+      "nodeCount": 6
+    },
+    {
+      "id": 1118411544,
+      "name": "Hazratbal Road",
+      "tags": {
+        "highway": "secondary",
+        "lanes": "2",
+        "maxspeed": "60",
+        "name": "Hazratbal Road",
+        "oneway": "yes",
+        "ref:old": "NH1D",
+        "shoulder": "no",
+        "smoothness": "intermediate",
+        "source": "maxar",
+        "surface": "asphalt"
+      },
+      "center": [
+        34.12724,
+        74.838903
+      ],
+      "nodeCount": 7
+    },
+    {
+      "id": 1281206547,
+      "name": "Lane 2",
+      "tags": {
+        "highway": "residential",
+        "name": "Lane 2"
+      },
+      "center": [
+        34.126947,
+        74.836968
+      ],
+      "nodeCount": 9
+    },
+    {
+      "id": 1281206548,
+      "name": "Lane 1",
+      "tags": {
+        "highway": "residential",
+        "name": "Lane 1"
+      },
+      "center": [
+        34.127302,
+        74.836967
+      ],
+      "nodeCount": 5
+    },
+    {
+      "id": 1352927870,
+      "name": "NIT Srinagar Auditorium",
+      "tags": {
+        "amenity": "conference_centre",
+        "building": "yes",
+        "name": "NIT Srinagar Auditorium",
+        "operator": "NIT Srinagar",
+        "operator:type": "university"
+      },
+      "center": [
+        34.125821,
+        74.838538
+      ],
+      "nodeCount": 17
+    },
+    {
+      "id": 1352928148,
+      "name": "Jammu and Kashmir Bank",
+      "tags": {
+        "air_conditioning": "yes",
+        "amenity": "bank",
+        "atm": "yes",
+        "branch": "NIT/ REC Srinagar",
+        "brand": "Jammu and Kashmir Bank",
+        "brand:wikidata": "Q2040429",
+        "building": "yes",
+        "drive_through": "no",
+        "name": "Jammu and Kashmir Bank",
+        "opening_hours": "10:00-16:30",
+        "operator": "Jammu & Kashmir Bank"
+      },
+      "center": [
+        34.125514,
+        74.838009
+      ],
+      "nodeCount": 8
+    },
+    {
+      "id": 1352928197,
+      "name": "Guard Hut",
+      "tags": {
+        "building": "yes",
+        "name": "Guard Hut",
+        "office": "security"
+      },
+      "center": [
+        34.125273,
+        74.837783
+      ],
+      "nodeCount": 5
+    },
+    {
+      "id": 1352938114,
+      "name": "Mega Hostel",
+      "tags": {
+        "building": "construction",
+        "construction": "residential",
+        "name": "Mega Hostel"
+      },
+      "center": [
+        34.124167,
+        74.841091
+      ],
+      "nodeCount": 9
+    },
+    {
+      "id": 1352938115,
+      "name": "Prefab Lecture Halls",
+      "tags": {
+        "indoor": "room",
+        "level": "0",
+        "name": "Prefab Lecture Halls",
+        "ref": "2 through 7",
+        "room": "classroom"
+      },
+      "center": [
+        34.124427,
+        74.840372
+      ],
+      "nodeCount": 25
+    },
+    {
+      "id": 1352938116,
+      "name": "yes (1352938116)",
+      "tags": {
+        "access": "yes",
+        "amenity": "toilets",
+        "building": "yes",
+        "changing_table": "no",
+        "toilets:disposal": "flush",
+        "wheelchair": "no"
+      },
+      "center": [
+        34.12424,
+        74.840276
+      ],
+      "nodeCount": 5
+    },
+    {
+      "id": 1352938119,
+      "name": "parking (1352938119)",
+      "tags": {
+        "amenity": "parking",
+        "fee": "yes",
+        "surface": "asphalt"
+      },
+      "center": [
+        34.123645,
+        74.839587
+      ],
+      "nodeCount": 6
+    },
+    {
+      "id": 1352938121,
+      "name": "White Tent",
+      "tags": {
+        "leisure": "pitch",
+        "lit": "yes",
+        "name": "White Tent",
+        "sport": "table_tennis"
+      },
+      "center": [
+        34.123599,
+        74.838915
+      ],
+      "nodeCount": 5
+    },
+    {
+      "id": 1352938122,
+      "name": "Ampitheatre",
+      "tags": {
+        "amenity": "theatre",
+        "name": "Ampitheatre",
+        "theatre:type": "amphi"
+      },
+      "center": [
+        34.123545,
+        74.839074
+      ],
+      "nodeCount": 20
+    },
+    {
+      "id": 1352938123,
+      "name": "pitch (1352938123)",
+      "tags": {
+        "leisure": "pitch",
+        "sport": "basketball",
+        "surface": "concrete"
+      },
+      "center": [
+        34.123905,
+        74.84282
+      ],
+      "nodeCount": 5
+    },
+    {
+      "id": 1352938124,
+      "name": "pitch (1352938124)",
+      "tags": {
+        "leisure": "pitch",
+        "sport": "basketball"
+      },
+      "center": [
+        34.123899,
+        74.843103
+      ],
+      "nodeCount": 5
+    },
+    {
+      "id": 1352938125,
+      "name": "fitness_station (1352938125)",
+      "tags": {
+        "fitness_station": "yes",
+        "leisure": "fitness_station",
+        "sport": "fitness"
+      },
+      "center": [
+        34.123826,
+        74.84423
+      ],
+      "nodeCount": 5
+    },
+    {
+      "id": 1352938126,
+      "name": "Football Ground",
+      "tags": {
+        "leisure": "pitch",
+        "name": "Football Ground",
+        "sport": "soccer",
+        "surface": "grass"
+      },
+      "center": [
+        34.125067,
+        74.84351
+      ],
+      "nodeCount": 5
+    },
+    {
+      "id": 1352938127,
+      "name": "Athletic Track",
+      "tags": {
+        "leisure": "track",
+        "name": "Athletic Track",
+        "sport": "running",
+        "surface": "artificial_turf"
+      },
+      "center": [
+        34.125082,
+        74.843607
+      ],
+      "nodeCount": 18
+    },
+    {
+      "id": 1352938128,
+      "name": "Cricket Ground",
+      "tags": {
+        "leisure": "pitch",
+        "name": "Cricket Ground",
+        "sport": "cricket",
+        "surface": "grass"
+      },
+      "center": [
+        34.12473,
+        74.842212
+      ],
+      "nodeCount": 6
+    },
+    {
+      "id": 1352938129,
+      "name": "pitch (1352938129)",
+      "tags": {
+        "hoops": "4",
+        "leisure": "pitch",
+        "sport": "basketball",
+        "surface": "artificial_turf"
+      },
+      "center": [
+        34.125619,
+        74.841652
+      ],
+      "nodeCount": 5
+    },
+    {
+      "id": 1352938130,
+      "name": "Tennis Courts",
+      "tags": {
+        "leisure": "pitch",
+        "name": "Tennis Courts",
+        "sport": "tennis",
+        "surface": "artificial_turf"
+      },
+      "center": [
+        34.125644,
+        74.842103
+      ],
+      "nodeCount": 5
+    },
+    {
+      "id": 1352938131,
+      "name": "Badminton Court",
+      "tags": {
+        "leisure": "pitch",
+        "name": "Badminton Court",
+        "sport": "badminton"
+      },
+      "center": [
+        34.125671,
+        74.842596
+      ],
+      "nodeCount": 5
+    },
+    {
+      "id": 1352938132,
+      "name": "Badminton Court",
+      "tags": {
+        "leisure": "pitch",
+        "name": "Badminton Court",
+        "sport": "badminton"
+      },
+      "center": [
+        34.12525,
+        74.841548
+      ],
+      "nodeCount": 5
+    },
+    {
+      "id": 1352938138,
+      "name": "Dal Side Park",
+      "tags": {
+        "leisure": "park",
+        "name": "Dal Side Park"
+      },
+      "center": [
+        34.125003,
+        74.844178
+      ],
+      "nodeCount": 10
+    },
+    {
+      "id": 1352938139,
+      "name": "Professor Masjid",
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "layer": "1",
+        "name": "Professor Masjid",
+        "religion": "muslim"
+      },
+      "center": [
+        34.126809,
+        74.843607
+      ],
+      "nodeCount": 7
+    },
+    {
+      "id": 1352938140,
+      "name": "Security Officer's Residence",
+      "tags": {
+        "building": "house",
+        "name": "Security Officer's Residence"
+      },
+      "center": [
+        34.126854,
+        74.844011
+      ],
+      "nodeCount": 5
+    },
+    {
+      "id": 1352938141,
+      "name": "Director's Bungalow",
+      "tags": {
+        "building": "bungalow",
+        "name": "Director's Bungalow"
+      },
+      "center": [
+        34.12649,
+        74.843925
+      ],
+      "nodeCount": 5
+    },
+    {
+      "id": 1352938142,
+      "name": "track (1352938142)",
+      "tags": {
+        "leisure": "track",
+        "sport": "running"
+      },
+      "center": [
+        34.125862,
+        74.843369
+      ],
+      "nodeCount": 2
+    },
+    {
+      "id": 1352938143,
+      "name": "Mansar Hostel",
+      "tags": {
+        "building": "yes",
+        "guest_house": "student_accommodation",
+        "name": "Mansar Hostel",
+        "name:ur": "مانسر ہوسٹل",
+        "operator": "Hostel Office",
+        "tourism": "hostel"
+      },
+      "center": [
+        34.123488,
+        74.842284
+      ],
+      "nodeCount": 7
+    },
+    {
+      "id": 1352938144,
+      "name": "yes (1352938144)",
+      "tags": {
+        "amenity": "toilets",
+        "building": "yes",
+        "male": "yes"
+      },
+      "center": [
+        34.123301,
+        74.842944
+      ],
+      "nodeCount": 5
+    },
+    {
+      "id": 1352938145,
+      "name": "Greenhouse",
+      "tags": {
+        "building": "greenhouse",
+        "name": "Greenhouse"
+      },
+      "center": [
+        34.123322,
+        74.843419
+      ],
+      "nodeCount": 5
+    },
+    {
+      "id": 1352938146,
+      "name": "Nursery",
+      "tags": {
+        "landuse": "plant_nursery",
+        "name": "Nursery"
+      },
+      "center": [
+        34.123448,
+        74.843413
+      ],
+      "nodeCount": 5
+    },
+    {
+      "id": 1352938147,
+      "name": "carport (1352938147)",
+      "tags": {
+        "building": "carport"
+      },
+      "center": [
+        34.123455,
+        74.843709
+      ],
+      "nodeCount": 5
+    },
+    {
+      "id": 1352938149,
+      "name": "CS Lab",
+      "tags": {
+        "indoor": "room",
+        "level": "0",
+        "name": "CS Lab",
+        "room": "laboratory"
+      },
+      "center": [
+        34.126032,
+        74.840857
+      ],
+      "nodeCount": 5
+    },
+    {
+      "id": 1352938150,
+      "name": "CS Lab",
+      "tags": {
+        "indoor": "room",
+        "name": "CS Lab",
+        "room": "laboratory"
+      },
+      "center": [
+        34.125888,
+        74.840832
+      ],
+      "nodeCount": 5
+    },
+    {
+      "id": 1352938151,
+      "name": "Prefab Lecture Hall",
+      "tags": {
+        "indoor": "room",
+        "name": "Prefab Lecture Hall",
+        "ref": "PF1",
+        "room": "classroom"
+      },
+      "center": [
+        34.1262,
+        74.84106
+      ],
+      "nodeCount": 5
+    },
+    {
+      "id": 1352938152,
+      "name": "Trainings & Placement",
+      "tags": {
+        "alt_name": "T&P",
+        "building": "office",
+        "name": "Trainings & Placement"
+      },
+      "center": [
+        34.12643,
+        74.841257
+      ],
+      "nodeCount": 5
+    },
+    {
+      "id": 1352938155,
+      "name": "parking (1352938155)",
+      "tags": {
+        "amenity": "parking"
+      },
+      "center": [
+        34.126056,
+        74.840688
+      ],
+      "nodeCount": 6
+    },
+    {
+      "id": 1352938156,
+      "name": "Workshop Park",
+      "tags": {
+        "leisure": "park",
+        "name": "Workshop Park"
+      },
+      "center": [
+        34.126225,
+        74.839561
+      ],
+      "nodeCount": 5
+    },
+    {
+      "id": 1352938157,
+      "name": "carport (1352938157)",
+      "tags": {
+        "building": "carport"
+      },
+      "center": [
+        34.12637,
+        74.83956
+      ],
+      "nodeCount": 5
+    },
+    {
+      "id": 1352938689,
+      "name": "fountain (1352938689)",
+      "tags": {
+        "amenity": "fountain",
+        "drinking_water": "no",
+        "fountain": "decorative",
+        "lit": "no"
+      },
+      "center": [
+        34.125017,
+        74.839144
+      ],
+      "nodeCount": 20
+    },
+    {
+      "id": 1352938867,
+      "name": "parking (1352938867)",
+      "tags": {
+        "amenity": "parking",
+        "surface": "dirt"
+      },
+      "center": [
+        34.124895,
+        74.838328
+      ],
+      "nodeCount": 6
+    },
+    {
+      "id": 1352939780,
+      "name": "pitch (1352939780)",
+      "tags": {
+        "leisure": "pitch",
+        "sport": "badminton"
+      },
+      "center": [
+        34.123726,
+        74.839389
+      ],
+      "nodeCount": 5
+    },
+    {
+      "id": 1352939781,
+      "name": "garden (1352939781)",
+      "tags": {
+        "leisure": "garden"
+      },
+      "center": [
+        34.124066,
+        74.838939
+      ],
+      "nodeCount": 5
+    },
+    {
+      "id": 1354346356,
+      "name": "New Guest House",
+      "tags": {
+        "building": "yes",
+        "guest_house": "guest_house",
+        "name": "New Guest House",
+        "operator": "NIT Srinagar",
+        "rooms": "50",
+        "tourism": "guest_house",
+        "website": "https://nitsri.ac.in/Centre/Deptindex.aspx?page=a&ItemID=eaeqs&nCentreID=ci"
+      },
+      "center": [
+        34.126692,
+        74.840735
+      ],
+      "nodeCount": 9
+    },
+    {
+      "id": 1354346550,
+      "name": "Earthquake Centre",
+      "tags": {
+        "building": "yes",
+        "building:levels": "1",
+        "building:prefabricated": "yes",
+        "name": "Earthquake Centre"
+      },
+      "center": [
+        34.126915,
+        74.841126
+      ],
+      "nodeCount": 5
+    },
+    {
+      "id": 1354346624,
+      "name": "New Girls Hostel",
+      "tags": {
+        "building": "yes",
+        "guest_house": "student_accommodation",
+        "name": "New Girls Hostel",
+        "tourism": "hostel"
+      },
+      "center": [
+        34.126752,
+        74.841495
+      ],
+      "nodeCount": 17
+    },
+    {
+      "id": 1354347702,
+      "name": "pitch (1354347702)",
+      "tags": {
+        "leisure": "pitch",
+        "sport": "badminton",
+        "surface": "concrete"
+      },
+      "center": [
+        34.127043,
+        74.842235
+      ],
+      "nodeCount": 5
+    },
+    {
+      "id": 1354347703,
+      "name": "yes (1354347703)",
+      "tags": {
+        "building": "yes"
+      },
+      "center": [
+        34.127058,
+        74.842622
+      ],
+      "nodeCount": 5
+    },
+    {
+      "id": 1354347710,
+      "name": "CSC Lab",
+      "tags": {
+        "building": "yes",
+        "building:prefabricated": "yes",
+        "name": "CSC Lab"
+      },
+      "center": [
+        34.125629,
+        74.839446
+      ],
+      "nodeCount": 5
+    },
+    {
+      "id": 1354347711,
+      "name": "CSC Lab",
+      "tags": {
+        "building": "yes",
+        "building:prefabricated": "yes",
+        "name": "CSC Lab"
+      },
+      "center": [
+        34.125618,
+        74.83961
+      ],
+      "nodeCount": 5
+    },
+    {
+      "id": 1354348712,
+      "name": "parking (1354348712)",
+      "tags": {
+        "amenity": "parking"
+      },
+      "center": [
+        34.125351,
+        74.83795
+      ],
+      "nodeCount": 17
+    },
+    {
+      "id": 1354348866,
+      "name": "parking (1354348866)",
+      "tags": {
+        "amenity": "parking"
+      },
+      "center": [
+        34.125299,
+        74.838428
+      ],
+      "nodeCount": 5
+    },
+    {
+      "id": 1354348867,
+      "name": "garden (1354348867)",
+      "tags": {
+        "leisure": "garden"
+      },
+      "center": [
+        34.125171,
+        74.838467
+      ],
+      "nodeCount": 7
+    },
+    {
+      "id": 1354348868,
+      "name": "garden (1354348868)",
+      "tags": {
+        "leisure": "garden"
+      },
+      "center": [
+        34.125033,
+        74.838458
+      ],
+      "nodeCount": 6
+    },
+    {
+      "id": 1354349285,
+      "name": "garden (1354349285)",
+      "tags": {
+        "leisure": "garden"
+      },
+      "center": [
+        34.124318,
+        74.838864
+      ],
+      "nodeCount": 14
+    },
+    {
+      "id": 1354349287,
+      "name": "Councelling Cum Evaluation Centre",
+      "tags": {
+        "building": "yes",
+        "building:levels": "1",
+        "building:prefabricated": "yes",
+        "name": "Councelling Cum Evaluation Centre"
+      },
+      "center": [
+        34.124766,
+        74.840338
+      ],
+      "nodeCount": 5
+    },
+    {
+      "id": 1354350070,
+      "name": "Daycare Centre",
+      "tags": {
+        "amenity": "childcare",
+        "building": "yes",
+        "name": "Daycare Centre"
+      },
+      "center": [
+        34.123533,
+        74.839715
+      ],
+      "nodeCount": 5
+    },
+    {
+      "id": 1354350159,
+      "name": "Concrete Lab",
+      "tags": {
+        "building": "shed",
+        "name": "Concrete Lab"
+      },
+      "center": [
+        34.12474,
+        74.83958
+      ],
+      "nodeCount": 5
+    },
+    {
+      "id": 1354352311,
+      "name": "yes (1354352311)",
+      "tags": {
+        "amenity": "toilets",
+        "building": "yes"
+      },
+      "center": [
+        34.125845,
+        74.839933
+      ],
+      "nodeCount": 5
+    },
+    {
+      "id": 1462495777,
+      "name": "parking (1462495777)",
+      "tags": {
+        "amenity": "parking"
+      },
+      "center": [
+        34.12722,
+        74.839071
+      ],
+      "nodeCount": 9
+    },
+    {
+      "id": 1462495778,
+      "name": "Eidgah Park Dargah",
+      "tags": {
+        "addr:district": "srinagar",
+        "addr:street": "Dargah Hazratbal Shrine",
+        "leisure": "park",
+        "name": "Eidgah Park Dargah",
+        "operator": "Dargah Hazratbal Shrine",
+        "operator:type": "public"
+      },
+      "center": [
+        34.128498,
+        74.840658
+      ],
+      "nodeCount": 11
+    },
+    {
+      "id": 1463041783,
+      "name": "Multilevel Parking Hazratbal",
+      "tags": {
+        "amenity": "parking",
+        "building": "yes",
+        "name": "Multilevel Parking Hazratbal",
+        "parking": "multi-storey"
+      },
+      "center": [
+        34.127078,
+        74.838076
+      ],
+      "nodeCount": 54
+    }
+  ]
+}
